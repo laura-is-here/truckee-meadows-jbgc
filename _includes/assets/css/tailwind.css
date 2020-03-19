@@ -19,8 +19,10 @@
 .markdown p + h1,
 .markdown p + h2,
 .markdown p + h3,
-.markdown p + h4 {
-  @apply mt-4;
+.markdown p + h4,
+.markdown p + h5,
+.markdown p + h6 {
+  @apply mt-6;
 }
 
 .markdown h1 {
@@ -33,7 +35,9 @@
 .markdown h3 {
   @apply text-xl font-semibold leading-none mb-2;
 }
-.markdown h4 {
+.markdown h4,
+.markdown h5,
+.markdown h6 {
   @apply font-semibold leading-none mb-2;
 }
 

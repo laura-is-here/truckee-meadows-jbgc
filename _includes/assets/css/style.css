@@ -596,7 +596,7 @@ video {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),
     url("/static/img/chase-moyer-NpyR4UHjIDQ-unsplash.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -609,6 +609,15 @@ video {
 
 .markdown p {
   margin-bottom: 0.5rem;
+}
+
+.markdown p + h1,
+.markdown p + h2,
+.markdown p + h3,
+.markdown p + h4,
+.markdown p + h5,
+.markdown p + h6 {
+  margin-top: 1.5rem;
 }
 
 .markdown h1 {
@@ -631,7 +640,9 @@ video {
   margin-bottom: 0.5rem;
 }
 
-.markdown h4 {
+.markdown h4,
+.markdown h5,
+.markdown h6 {
   font-weight: 600;
   line-height: 1;
   margin-bottom: 0.5rem;
