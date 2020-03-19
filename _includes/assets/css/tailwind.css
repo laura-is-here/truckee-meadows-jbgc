@@ -8,6 +8,28 @@
   background-position: bottom;
 }
 
+.markdown {
+  @apply leading-relaxed;
+}
+
+.markdown p {
+  @apply mb-2;
+}
+
+.markdown h1 {
+  @apply text-4xl leading-none mb-2;
+}
+
+.markdown h2 {
+  @apply text-2xl font-semibold leading-none mb-2;
+}
+.markdown h3 {
+  @apply text-xl font-semibold leading-none mb-2;
+}
+.markdown h4 {
+  @apply font-semibold leading-none mb-2;
+}
+
 @tailwind components;
 
 @tailwind utilities;

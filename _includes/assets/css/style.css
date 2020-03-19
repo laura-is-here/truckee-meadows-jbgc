@@ -603,6 +603,40 @@ video {
   background-position: bottom;
 }
 
+.markdown {
+  line-height: 1.625;
+}
+
+.markdown p {
+  margin-bottom: 0.5rem;
+}
+
+.markdown h1 {
+  font-size: 2.25rem;
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+
+.markdown h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+
+.markdown h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+
+.markdown h4 {
+  font-weight: 600;
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+
 .container {
   width: 100%;
 }
