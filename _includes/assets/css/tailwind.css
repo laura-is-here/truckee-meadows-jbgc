@@ -1,0 +1,13 @@
+@tailwind base;
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)),
+    url("/static/img/chase-moyer-NpyR4UHjIDQ-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+@tailwind components;
+
+@tailwind utilities;

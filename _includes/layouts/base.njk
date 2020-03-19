@@ -1,23 +1,40 @@
-<!doctype html>
-<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+<!DOCTYPE html>
+<html
+  class="text-lg font-serif text-gray-800 bg-gray-100 leading-relaxed antialiased"
+  {%
+  if
+  section
+  %}
+  data-current="{{ section }}"
+  {%
+  endif
+  %}
+  lang="en"
+>
+  {% include "components/head.njk" %}
 
-	{% include "components/head.njk" %}
+  <body>
+    <header
+      class="bg-black text-gray-100 hero-image h-screen flex flex-col justify-between items-start "
+    >
+      <img src="static/img/logo.png" class="h-40 my-4 ml-auto mr-4" />
+      <div class="mb-12 p-8 container max-w-screen-lg mx-auto">
+        <p class="text-2xl md:text-4xl leading-tight border-b-4 border-white">
+          <span class="">We are the<br /></span>
+          <a class="font-bold hover:text-red-400 " href="{{ '/' | url }}">{{
+            metadata.title
+          }}</a>
+        </p>
+        {% include "components/nav.njk" %}
+      </div>
+    </header>
 
-	<body>
+    <main>
+      <div class="mb-12 p-8 container max-w-screen-lg mx-auto">
+        {{ content | safe }}
+      </div>
+    </main>
 
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
-		</header>
-
-		<main>
-			{{ layoutContent | safe }}
-		</main>
-
-		{% include "components/footer.njk" %}
-
-	</body>
-
+    {% include "components/footer.njk" %}
+  </body>
 </html>

@@ -3,9 +3,13 @@
   "version": "1.0.3",
   "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
   "scripts": {
-    "build": "npx eleventy",
-    "watch": "npx eleventy --watch",
-    "debug": "DEBUG=* npx eleventy"
+    "styles:watch": "postcss _includes/assets/css/tailwind.css -o _includes/assets/css/style.css && postcss _includes/assets/css/tailwind.css -o _includes/assets/css/style.css -w",
+    "styles:build": "postcss _includes/assets/css/tailwind.css -o _includes/assets/css/style.css",
+    "eleventy:watch": "npx eleventy --serve",
+    "eleventy:build": "eleventy",
+    "dev": "npm-run-all -p styles:watch eleventy:watch",
+    "surge": "npm run build && surge dist",
+    "build": "npm-run-all styles:build eleventy:build"
   },
   "repository": {
     "type": "git",
@@ -25,12 +29,17 @@
     "@11ty/eleventy": "^0.11.0-beta.1",
     "luxon": "^1.21.3",
     "markdown-it": "^10.0.0",
-    "markdown-it-anchor": "^5.2.5"
+    "markdown-it-anchor": "^5.2.5",
+    "npm-run-all": "^4.1.5"
   },
   "dependencies": {
     "@11ty/eleventy-navigation": "^0.1.5",
+    "@fullhuman/postcss-purgecss": "^2.1.0",
+    "autoprefixer": "^9.7.4",
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
+    "postcss-cli": "^7.1.0",
+    "tailwindcss": "^1.2.0",
     "uglify-es": "^3.3.9"
   }
 }
