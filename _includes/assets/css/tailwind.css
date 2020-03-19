@@ -8,7 +8,7 @@
   background-position: bottom;
 }
 
-.markdown {
+.markdown * {
   @apply leading-relaxed;
 }
 
@@ -22,23 +22,23 @@
 .markdown p + h4,
 .markdown p + h5,
 .markdown p + h6 {
-  @apply mt-6;
+  @apply mt-6 mb-2;
 }
 
 .markdown h1 {
-  @apply text-4xl leading-none mb-2;
+  @apply text-4xl leading-none mb-4;
 }
 
 .markdown h2 {
-  @apply text-2xl font-semibold leading-none mb-2;
+  @apply text-2xl font-semibold leading-none mb-4;
 }
 .markdown h3 {
-  @apply text-xl font-semibold leading-none mb-2;
+  @apply text-xl font-semibold leading-none mb-4;
 }
 .markdown h4,
 .markdown h5,
 .markdown h6 {
-  @apply font-semibold leading-none mb-2;
+  @apply font-semibold leading-none mb-4;
 }
 
 @tailwind components;
