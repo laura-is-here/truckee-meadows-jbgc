@@ -13,11 +13,14 @@
 }
 
 .markdown p {
-  @apply mb-4;
+  @apply mb-2;
 }
 
-.markdown p + p {
-  @apply mb-2;
+.markdown p + h1,
+.markdown p + h2,
+.markdown p + h3,
+.markdown p + h4 {
+  @apply mt-4;
 }
 
 .markdown h1 {
