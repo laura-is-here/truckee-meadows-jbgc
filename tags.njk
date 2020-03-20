@@ -14,11 +14,15 @@ renderData:
   title: "Tagged “{{ tag }}”"
 ---
 
-<h1>Tagged “{{ tag }}”</h1>
+<div class="container max-w-screen-lg mx-auto">
+  <div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md ">
+    <h1 class="text-4xl mb-4">Tagged “{{ tag }}”</h1>
+    {{ layoutContent | safe }}
 
-{% set postslist = collections[ tag ] %}
-{% include "components/postslist.njk" %}
-
-<nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
-</nav>
+    {% set postslist = collections[ tag ] %} {% include
+    "components/postslist.njk" %}
+    <nav>
+      <a href="{{ '/blog/' | url }}">← Blog index</a>
+    </nav>
+  </div>
+</div>
