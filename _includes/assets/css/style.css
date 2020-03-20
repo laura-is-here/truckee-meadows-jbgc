@@ -650,6 +650,13 @@ video {
   margin-bottom: 1rem;
 }
 
+.markdown img {
+  width: 16rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin-bottom: 0.5rem;
+}
+
 .container {
   width: 100%;
 }

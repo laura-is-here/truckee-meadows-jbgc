@@ -3,16 +3,18 @@ layout: layouts/base.njk
 section: post
 ---
 
-<article class="container max-w-screen-lg mx-auto markdown">
+<article class="container max-w-screen-lg mx-auto ">
   <div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md ">
-    <p class="font-semibold ">
+    <p class="font-semibold mb-2 font-serif">
       <time datetime="{{ post.date | machineDate }}">
         <small>{{ date | readableDate }}</small>
       </time>
     </p>
     <h1 class="text-2xl leading-tight mb-2">{{ title }}</h1>
 
-    {{ layoutContent | safe }}
+    <div class="markdown">
+      {{ layoutContent | safe }}
+    </div>
     {% if tags %}
     <p class="mb-2">
       {% for tag in tags %} {%- if tag != "post" -%} {% set tagUrl %}/tags/{{
@@ -28,7 +30,7 @@ section: post
     </p>
     {% endif %}
     <nav>
-      <a href="{{ '/blog/' | url }}">← Blog index</a>
+      <a href="{{ '/blog/' | url }}" class="hover:text-red-400">← Blog index</a>
     </nav>
   </div>
 </article>
