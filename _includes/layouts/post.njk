@@ -4,27 +4,29 @@ section: post
 ---
 
 <article class="container max-w-screen-lg mx-auto">
-  <div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md markdown">
-    <h1>{{ title }}</h1>
-    <p>
-      <small>
-        <time datetime="{{ date | machineDate }}">{{
-          date | readableDate
-        }}</time>
-        by {{ metadata.author.name }}
-      </small>
+  <div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md ">
+    <p class="font-semibold ">
+      <time datetime="{{ post.date | machineDate }}">
+        <small>{{ post.date | readableDate }}</small>
+      </time>
     </p>
+    <h1 class="text-2xl leading-tight mb-2">{{ title }}</h1>
+
+    {{ layoutContent | safe }}
     {% if tags %}
-    <p>
+    <p class="mb-2">
       {% for tag in tags %} {%- if tag != "post" -%} {% set tagUrl %}/tags/{{
         tag
       }}/{% endset %}
-      <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+      <a
+        href="{{ tagUrl | url }}"
+        rel="tag"
+        class="text-gray-700 hover:text-gray-900"
+        ><small>{{ tag }}</small></a
+      >
       {%- endif -%} {% endfor %}
     </p>
     {% endif %}
-
-    {{ layoutContent | safe }}
     <nav>
       <a href="{{ '/blog/' | url }}">← Blog index</a>
     </nav>
