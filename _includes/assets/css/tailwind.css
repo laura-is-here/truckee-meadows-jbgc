@@ -1,11 +1,11 @@
 @tailwind base;
 
-.hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),
-    url("/static/img/chase-moyer-NpyR4UHjIDQ-unsplash.jpg");
+.jb-hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    url("/static/img/john-brown.png");
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: bottom;
+  background-size: 100vh;
+  background-position: bottom left;
 }
 
 .markdown * {
