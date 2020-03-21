@@ -16,11 +16,12 @@ renderData:
 
 <div class="container max-w-screen-lg mx-auto">
   <div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md ">
-    <h1 class="text-4xl mb-4">Tagged “{{ tag }}”</h1>
+    <h1 class="text-4xl mb-4 leading-tight">Tagged “{{ tag }}”</h1>
     {{ layoutContent | safe }}
 
     {% set postslist = collections[ tag ] %} {% include
     "components/postslist.njk" %}
+    <hr class="border-b-2 border-gray-900 w-48 mb-4" />
     <nav>
       <a href="{{ '/blog/' | url }}" class="hover:text-red-400">← Blog index</a>
     </nav>

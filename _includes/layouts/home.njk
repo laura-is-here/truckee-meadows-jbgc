@@ -1,6 +1,7 @@
 ---
 layout: layouts/base.njk
 section: home
+templateEngineOverride: njk,md
 ---
 
 <div class="container max-w-screen-lg mx-auto">
@@ -11,59 +12,32 @@ section: home
 <div class="flex flex-row flex-wrap justify-start">
   <img src="/static/img/john-brown.png" class="w-full md:w-1/2 object-cover " />
   <div class="flex flex-col justify-center p-8 w-full md:w-1/2 markdown ">
-    <h2>Header</h2>
-    <p>
-      Cupcake ipsum dolor sit amet jelly beans. Chupa chups chocolate pastry
-      pudding brownie brownie candy brownie. Muffin toffee cookie apple pie
-      topping. Pastry cupcake croissant cheesecake danish. Ice cream sweet roll
-      donut pie sweet roll liquorice. Sugar plum topping brownie muffin lollipop
-      lemon drops muffin dessert.
-    </p>
+    <h2>{{ bannerOne.header }}</h2>
+    {{ bannerOne.content | safe }}
   </div>
   <img
     src="https://source.unsplash.com/random?rainbow"
     class="w-full md:w-1/2 object-cover h-64 md:h-screen "
   />
   <div
-    class="flex flex-col justify-center p-8 w-full md:w-1/2 markdown bg-black text-gray-200 font-semibold"
+    class="flex flex-col justify-center p-8 w-full md:w-1/2 markdown bg-black text-gray-200 "
   >
-    <h2>Header</h2>
-    <p>
-      Cupcake ipsum dolor sit amet jelly beans. Chupa chups chocolate pastry
-      pudding brownie brownie candy brownie. Muffin toffee cookie apple pie
-      topping. Pastry cupcake croissant cheesecake danish. Ice cream sweet roll
-      donut pie sweet roll liquorice. Sugar plum topping brownie muffin lollipop
-      lemon drops muffin dessert.
-    </p>
+    <h2>{{ bannerTwo.header }}</h2>
+    {{ bannerTwo.content | safe }}
   </div>
   <div
     class="flex flex-col justify-center p-8 w-full md:w-1/2 markdown text-gray-900 bg-gray-200"
   >
-    <h2>Header</h2>
-
-    <p>
-      Cookie croissant wafer donut fruitcake danish chocolate bar cheesecake.
-      Sweet roll sweet pastry caramels macaroon muffin. Cake macaroon toffee.
-      Donut pie sesame snaps gingerbread jelly jelly. Gummies cake marzipan
-      danish macaroon cake sweet tiramisu. Cupcake carrot cake marshmallow wafer
-      croissant tiramisu dragée chocolate bar chocolate. Liquorice chocolate bar
-      tiramisu soufflé cookie sweet. Sesame snaps cupcake jujubes tart gummies
-      jelly tart pie. Tootsie roll jelly beans dessert bear claw dessert.
-    </p>
+    <h2>{{ bannerThree.header }}</h2>
+    {{ bannerThree.content | safe }}
   </div>
   <img
     src="https://source.unsplash.com/random?sunshine"
     class="w-full md:w-1/2 object-cover h-64 md:h-screen "
   />
-  <div class="bg-red-400 text-gray-100 p-8 w-full font-semibold">
-    <h2 class="text-4xl leading-none mb-2">This is a call to action</h2>
-    <p class="text-xl">
-      Cupcake ipsum dolor sit amet jelly beans. Chupa chups chocolate pastry
-      pudding brownie brownie candy brownie. Muffin toffee cookie apple pie
-      topping. Pastry cupcake croissant cheesecake danish. Ice cream sweet roll
-      donut pie sweet roll liquorice. Sugar plum topping brownie muffin lollipop
-      lemon drops muffin dessert.
-    </p>
+  <div class="bg-red-400 text-gray-100 p-8 w-full markdown">
+    <h2>{{ bannerFour.header }}</h2>
+    {{ bannerFour.content | safe }}
     <a
       href="/contact/"
       class="block my-4 w-48 p-2 border-4 border-gray-100 text-center text-2xl font-semibold hover:bg-black hover:border-black "
