@@ -4,19 +4,19 @@ section: home
 templateEngineOverride: njk,md
 ---
 
-<div class="container max-w-screen-lg mx-auto">
+<div class="container max-w-screen-lg mx-auto mb-6">
   <div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md markdown">
     {{ content | safe }}
   </div>
 </div>
 <div class="flex flex-row flex-wrap justify-start">
-  <img src="/static/img/john-brown.png" class="w-full md:w-1/2 object-cover " />
+  <img src="{{ bannerOne.image }}" class="w-full md:w-1/2 object-cover " />
   <div class="flex flex-col justify-center p-8 w-full md:w-1/2 markdown ">
     <h2>{{ bannerOne.header }}</h2>
     {{ bannerOne.content | safe }}
   </div>
   <img
-    src="https://source.unsplash.com/random?rainbow"
+    src="{{ bannerTwo.image }}"
     class="w-full md:w-1/2 object-cover h-64 md:h-screen "
   />
   <div
@@ -32,7 +32,7 @@ templateEngineOverride: njk,md
     {{ bannerThree.content | safe }}
   </div>
   <img
-    src="https://source.unsplash.com/random?sunshine"
+    src="{{ bannerThree.image }}"
     class="w-full md:w-1/2 object-cover h-64 md:h-screen "
   />
   <div class="bg-red-400 text-gray-100 p-8 w-full markdown">

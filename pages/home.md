@@ -5,6 +5,7 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /
 bannerOne:
   header: Add a title here by editing Banner One Header
+  image: "/static/img/john-brown.png"
   content: |-
 
     ### Test title
@@ -14,6 +15,7 @@ bannerOne:
     Change the image by editing Banner One image
 bannerTwo:
   header: Add a title here by editing Banner Two Header
+  image: https://source.unsplash.com/random?rainbow
   content: |-
 
     ### Test title
@@ -23,6 +25,7 @@ bannerTwo:
     Change the image by editing Banner Two image
 bannerThree:
   header: Add a title here by editing Banner Three Header
+  image: https://source.unsplash.com/random?sunshine
   content: |-
 
     ### Test title
