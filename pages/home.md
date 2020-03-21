@@ -1,21 +1,7 @@
 ---
-layout: layouts/home.njk
-title: Home
-date: 2016-01-01T00:00:00.000Z
-permalink: /
-bannerOne:
-  header: Add a title here by editing Banner One Header
-  image: "/static/img/john-brown.png"
-  content: |-
-
-    ### Test title
-
-    Add some **markdown** content here by editing Banner One content
-
-    Change the image by editing Banner One image
 bannerTwo:
   header: Add a title here by editing Banner Two Header
-  image: https://source.unsplash.com/random?rainbow
+  image: /static/img/daniel-burka-tOz0u8Yju10-unsplash.jpg
   content: |-
 
     ### Test title
@@ -23,24 +9,36 @@ bannerTwo:
     Add some **markdown** content here by editing Banner Two content
 
     Change the image by editing Banner Two image
-bannerThree:
-  header: Add a title here by editing Banner Three Header
-  image: https://source.unsplash.com/random?sunshine
+layout: layouts/home.njk
+title: Home
+date: 2016-01-01T00:00:00.000Z
+permalink: /
+bannerOne:
+  header: Add a title here by editing Banner One Header
+  image: /static/img/john-brown.png
   content: |-
 
+    ### Test title
+
+    Add some **markdown** content here by editing Banner One content
+
+    Change the image by editing Banner One image
+bannerThree:
+  header: Add a title here by editing Banner Three Header
+  image: /static/img/chase-moyer-NpyR4UHjIDQ-unsplash.jpg
+  content: |-
     ### Test title
 
     Add some **markdown** content here by editing Banner Three content
 
     Change the image by editing Banner Three image
 bannerFour:
-  header: Add a title here by editing Banner Four Header
+  header: This is a great spot for a call to action!
   content: |-
 
     ### Test title
 
     Add some **markdown** content here by editing Banner Four content
-
 eleventyNavigation:
   key: Home
   order: 0
