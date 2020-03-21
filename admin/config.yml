@@ -30,6 +30,33 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Permalink", name: "permalink", widget: "string" }
+      - label: "Banner One"
+        name: "bannerOne"
+        widget: "object"
+        fields:
+          - { label: "Header", name: "header", widget: "string" }
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - label: "Banner two"
+        name: "bannerTwo"
+        widget: "object"
+        fields:
+          - { label: "Header", name: "header", widget: "string" }
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - label: "Banner Three"
+        name: "bannerThree"
+        widget: "object"
+        fields:
+          - { label: "Header", name: "header", widget: "string" }
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - label: "Banner Four"
+        name: "bannerFour"
+        widget: "object"
+        fields:
+          - { label: "Header", name: "header", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
       - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
         name: "eleventyNavigation"
         widget: "object"
