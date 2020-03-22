@@ -3,7 +3,11 @@ title: Independent JBGC
 date: 2020-03-22T00:48:40.982Z
 summary: 'We are an unaffiliated, independent John Brown Gun Club.'
 tags:
-  - jbgc
+  - john brown
+  - truckee meadows
+  - guns
+  - self-defense
+  - anarchism
 ---
 We are an independent John Brown Gun Club organizing in the Truckee Meadows region of Northern Nevada. We are unaffiliated with the Redneck Revolt network as we believe this is not the best way for us to deploy the limited time and human resources we have considering where we find ourselves at this moment.
 
