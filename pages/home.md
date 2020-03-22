@@ -7,13 +7,16 @@ bannerTwo:
     the Truckee Meadows.
 
 
+
     That includes disrupting fascists and their structures to keep them from
     effectively organizing, and especially resisting fascists holding public
     events and maintaining a public presence.
 
 
+
     We legally train community members for the purpose of community defense, and
     we don’t rely on the state to do our work for us.
+
 
 
     We fully stand for the right of all adults who would defend themselves and
@@ -52,6 +55,7 @@ bannerThree:
     health dangers of COVID-19: people facing homelessness, the elderly, the
     young, the immunocompromised, the poor, and others who are unable to restock
     the basic supplies they and their families need.
+
 
 
     We are creating a COVID-19 Mutual Aid Solidarity Network, comprised of
