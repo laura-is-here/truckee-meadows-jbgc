@@ -54,7 +54,7 @@ bannerThree:
 
     Change the image by editing Banner Three image
 bannerFour:
-  header: '-----'
+  header: To our community...
   content: >-
     We offer support upon request to those in our communities targeted by white
     supremacists and other agents of oppression and exploitation. We also offer
