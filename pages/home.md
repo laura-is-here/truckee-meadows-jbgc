@@ -54,8 +54,6 @@ bannerThree:
     the basic supplies they and their families need.
 
 
-
-
     We are creating a COVID-19 Mutual Aid Solidarity Network, comprised of
     different grassroots organizations, movements and organizers, who are
     committed to organizing mutual material support in the community. Our goal
@@ -73,7 +71,6 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-
 TMJBGC is an anti-fascist, anti-racist, pro-LGBTQ+, pro-worker community defense organization committed to accountable, community-led defense in the Truckee Meadows region of Northern Nevada.
 
 We believe in **active resistance** to the corrosive and destructive social effects of white supremacy, sexism, bigotry, and economic exploitation.
