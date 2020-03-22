@@ -26,7 +26,10 @@ bannerOne:
     (with support from HarrietTubman).<br /><br />While that raid failed,
     Brown’s actions instilled fear in slave owners, and he was celebrated in the
     popular Union marching song, “John Brown’s Body.”<br /><br />Today, we are
-    motivated by his famous quote: ***"What we need is action!"***
+    motivated by his famous quote:<br /><br />
+
+
+    ***"What we need is action!"***
 bannerThree:
   header: Washoe County Mutual Aid Solidarity Network
   image: /static/img/img_7237.png
