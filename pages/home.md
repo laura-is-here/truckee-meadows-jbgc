@@ -2,13 +2,24 @@
 bannerTwo:
   header: We Organize Against Fascism And Train In Defense
   image: /static/img/chase-moyer-NpyR4UHjIDQ-unsplash.jpg
-  content: |-
+  content: >-
+    We work to counter the rise of fascist and far-right groups and entities in
+    the Truckee Meadows.
 
-    ### Test title
 
-    Add some **markdown** content here by editing Banner Two content
+    That includes disrupting fascists and their structures to keep them from
+    effectively organizing, and especially resisting fascists holding public
+    events and maintaining a public presence.
 
-    Change the image by editing Banner Two image
+
+    We legally train community members for the purpose of community defense, and
+    we don’t rely on the state to do our work for us.
+
+
+    We fully stand for the right of all adults who would defend themselves and
+    their communities against far-right violence. This right includes the right
+    to own, carry, and train with tactically useful rifles, pistols, and body
+    armor.
 layout: layouts/home.njk
 permalink: /
 date: 2016-01-01T00:00:00.000Z
