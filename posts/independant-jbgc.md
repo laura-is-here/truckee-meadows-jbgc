@@ -16,3 +16,7 @@ As a country, we are at a historical crossroads. We stand unequivocally against 
 We look forward to strengthening our local relationships, supporting individual and community rights to defend and protect themselves, providing training towards that objective, and to founding new working partnerships with other similarly minded Truckee Meadows based groups, in addition to the surrounding counties of Lyon, Story and Douglas and the municipality of Carson City.
 
 Solidarity,
+
+
+
+Truckee Meadows John Brown Gun Club
