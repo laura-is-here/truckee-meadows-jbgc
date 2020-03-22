@@ -1,6 +1,6 @@
 ---
 bannerTwo:
-  header: Add a title here by editing Banner Two Header
+  header: We Organize Against Fascism And Train In Defense
   image: /static/img/daniel-burka-tOz0u8Yju10-unsplash.jpg
   content: |-
 
@@ -10,11 +10,11 @@ bannerTwo:
 
     Change the image by editing Banner Two image
 layout: layouts/home.njk
-title: Home
-date: 2016-01-01T00:00:00.000Z
 permalink: /
+date: 2016-01-01T00:00:00.000Z
+title: Home
 bannerOne:
-  header: Add a title here by editing Banner One Header
+  header: Inspired by John Brown
   image: /static/img/john-brown.png
   content: |-
 
@@ -24,7 +24,7 @@ bannerOne:
 
     Change the image by editing Banner One image
 bannerThree:
-  header: Add a title here by editing Banner Three Header
+  header: Washoe County Mutual Aid Solidarity Network
   image: /static/img/chase-moyer-NpyR4UHjIDQ-unsplash.jpg
   content: |-
 
