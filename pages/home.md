@@ -31,11 +31,9 @@ bannerOne:
   header: Inspired by John Brown
   image: /static/img/john-brown.png
   content: >-
-
     Our name comes from the abolitionist John Brown, who, in 1859, led a raid on
     the armory at Harpers Ferry intending to start a slave liberation movement
     (with support from HarrietTubman).
-
 
 
     While that raid failed, Brown’s actions instilled fear in slave owners, and
