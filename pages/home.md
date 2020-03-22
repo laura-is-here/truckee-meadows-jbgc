@@ -18,17 +18,12 @@ bannerOne:
   image: /static/img/john-brown.png
   content: |-
 
-    Our name comes from the abolitionist John Brown, who, in 1859, led a raid on
-    the armory at Harpers Ferry intending to start a slave liberation movement
-    (with support from HarrietTubman).
+    Our name comes from the abolitionist John Brown, who, in 1859, led a raid on the armory at Harpers Ferry intending to start a slave liberation movement (with support from HarrietTubman).
 
 
-    While that raid failed, Brown’s actions instilled fear in slave owners, and
-    he was celebrated in the popular Union marching song, “John Brown’s Body.”
-
+    While that raid failed, Brown’s actions instilled fear in slave owners, and he was celebrated in the popular Union marching song, “John Brown’s Body.”
 
     Today, we are motivated by his famous quote:
-
 
     #### ***"What we need is action!"***
 bannerThree:
