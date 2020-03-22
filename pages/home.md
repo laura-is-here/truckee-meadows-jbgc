@@ -54,12 +54,11 @@ bannerThree:
 
     Change the image by editing Banner Three image
 bannerFour:
-  header: This is a great spot for a call to action!
-  content: |-
-
-    ### Test title
-
-    Add some **markdown** content here by editing Banner Four content
+  header: '-----'
+  content: >-
+    We offer support upon request to those in our communities targeted by white
+    supremacists and other agents of oppression and exploitation. We also offer
+    trainings and concealed pistol license assistance.
 eleventyNavigation:
   key: Home
   order: 0
