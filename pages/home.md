@@ -16,7 +16,8 @@ title: Home
 bannerOne:
   header: Inspired by John Brown
   image: /static/img/john-brown.png
-  content: >-
+  content: |-
+
     Our name comes from the abolitionist John Brown, who, in 1859, led a raid on
     the armory at Harpers Ferry intending to start a slave liberation movement
     (with support from HarrietTubman).
@@ -51,6 +52,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+
 TMJBGC is an anti-fascist, anti-racist, pro-LGBTQ+, pro-worker community defense organization committed to accountable, community-led defense in the Truckee Meadows region of Northern Nevada.
 
 We believe in **active resistance** to the corrosive and destructive social effects of white supremacy, sexism, bigotry, and economic exploitation.
