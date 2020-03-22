@@ -54,6 +54,8 @@ bannerThree:
     the basic supplies they and their families need.
 
 
+
+
     We are creating a COVID-19 Mutual Aid Solidarity Network, comprised of
     different grassroots organizations, movements and organizers, who are
     committed to organizing mutual material support in the community. Our goal
