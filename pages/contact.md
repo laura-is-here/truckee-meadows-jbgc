@@ -11,6 +11,6 @@ eleventyNavigation:
 You can contact us through social media or email (preferred):\
 \
 Twitter: [@TMJBGC](https://twitter.com/TMJBGC)\
-Facebook: [@TruckeeMeadowsJBGC](https://www.facebook.com/TruckeeMeadowsJBGC)Email: [tmjbgc@protonmail.ch](mailto:tmjbgc@protonmail.ch)
+Facebook: [@TruckeeMeadowsJBGC](https://www.facebook.com/TruckeeMeadowsJBGC)Email: [tmjbgc@protonmail.ch](<tmjbgc@protonmail.ch?subject=Reaching out!>)
 
 Or, optionally, you can submit email through the form below. Please note that each submission is passed through a spam filter and if flagged, will display a CAPTCHA challenge to the user.
