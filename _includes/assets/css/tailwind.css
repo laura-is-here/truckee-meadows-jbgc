@@ -8,6 +8,28 @@
   background-position: bottom left;
 }
 
+.animated {
+  animation-duration: 750ms;
+}
+
+.fadeInUp {
+  animation-name: fadeInUp;
+  animation-timing-function: linear;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0.15;
+    filter: blur(1px);
+    transform: translateY(1.5rem);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+  }
+}
+
 .markdown * {
   @apply leading-relaxed;
 }

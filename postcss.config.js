@@ -5,6 +5,7 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
     "./_includes/**/*.njk"
     // etc.
   ],
+  whitelist: ["animated", "fadeInUp"],
 
   // Include any special characters you're using in this regular expression
   defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || []

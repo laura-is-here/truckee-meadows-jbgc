@@ -19,10 +19,6 @@
 
   {% set js %} {% include "assets/js/inline.js" %} {% endset %}
   <script>
-    {
-      {
-        js | jsmin | safe;
-      }
-    }
+        {{ js | jsmin | safe }}
   </script>
 </head>

@@ -27,6 +27,7 @@ bannerThree:
   header: Add a title here by editing Banner Three Header
   image: /static/img/chase-moyer-NpyR4UHjIDQ-unsplash.jpg
   content: |-
+
     ### Test title
 
     Add some **markdown** content here by editing Banner Three content

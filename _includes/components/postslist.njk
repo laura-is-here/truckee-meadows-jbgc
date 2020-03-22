@@ -1,6 +1,6 @@
 <section>
   {% for post in postslist | reverse %}
-  <article class="mb-8 leading-relaxed mr-12">
+  <article class="mb-8 leading-relaxed mr-12 animateWhenVisible">
     <p class="font-semibold ">
       <time datetime="{{ post.date | machineDate }}">
         <small>{{ post.date | readableDate }}</small>
