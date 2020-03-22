@@ -38,7 +38,8 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "home"
     label: "Home"
-    files: "pages/home.md"
+    folder: "pages"
+    filter: { field: "title", value: "Home" }
     create: false # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
