@@ -6,7 +6,7 @@ date: 2018-01-01T00:00:00.000Z
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 3
+  order: 30
 ---
 You can contact us through social media or email (preferred):\
 \
