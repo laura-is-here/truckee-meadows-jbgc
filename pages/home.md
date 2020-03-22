@@ -1,7 +1,7 @@
 ---
 bannerTwo:
   header: We Organize Against Fascism And Train In Defense
-  image: /static/img/daniel-burka-tOz0u8Yju10-unsplash.jpg
+  image: /static/img/chase-moyer-NpyR4UHjIDQ-unsplash.jpg
   content: |-
 
     ### Test title
