@@ -9,7 +9,7 @@
 }
 
 .animated {
-  animation-duration: 750ms;
+  animation-duration: 500ms;
 }
 
 .fadeInUp {
@@ -19,13 +19,11 @@
 
 @keyframes fadeInUp {
   0% {
-    opacity: 0.15;
-    filter: blur(1px);
+    opacity: 0;
     transform: translateY(1.5rem);
   }
   100% {
     opacity: 1;
-    filter: blur(0);
     transform: translateX(0);
   }
 }
