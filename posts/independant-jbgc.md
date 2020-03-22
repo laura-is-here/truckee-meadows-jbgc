@@ -1,5 +1,5 @@
 ---
-title: Independent JBGC
+title: An Independent JBGC
 date: 2020-03-22T00:48:40.982Z
 summary: 'We are an unaffiliated, independent John Brown Gun Club.'
 tags:
