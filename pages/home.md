@@ -1,7 +1,7 @@
 ---
 bannerTwo:
   header: We Organize Against Fascism And Train In Defense
-  image: /static/img/chase-moyer-NpyR4UHjIDQ-unsplash.jpg
+  image: /static/img/dont-tread-on-us.png
   content: >-
     We work to counter the rise of fascist and far-right groups and entities in
     the Truckee Meadows.
