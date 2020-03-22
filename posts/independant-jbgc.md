@@ -5,6 +5,10 @@ summary: 'We are an unaffiliated, independent John Brown Gun Club.'
 tags:
   - jbgc
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are an independent John Brown Gun Club organizing in the Truckee Meadows region of Northern Nevada. We are unaffiliated with the Redneck Revolt network as we believe this is not the best way for us to deploy the limited time and human resources we have considering where we find ourselves at this moment.
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis, neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+As a country, we are at a historical crossroads. We stand unequivocally against authoritarianism in all its forms, against white supremacy and bigotry, and against all forms of oppression and exploitation practiced by any institution or individual. And we hold fast these values over and against the promotion of any single political or ideological system.
+
+We look forward to strengthening our local relationships, supporting individual and community rights to defend and protect themselves, providing training towards that objective, and to founding new working partnerships with other similarly minded Truckee Meadows based groups, in addition to the surrounding counties of Lyon, Story and Douglas and the municipality of Carson City.
+
+Solidarity,
