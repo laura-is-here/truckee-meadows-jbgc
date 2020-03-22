@@ -29,6 +29,8 @@ bannerOne:
     motivated by his famous quote:
 
 
+
+
     ***"What we need is action!"***
 bannerThree:
   header: Washoe County Mutual Aid Solidarity Network
