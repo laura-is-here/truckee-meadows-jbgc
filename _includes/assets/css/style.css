@@ -459,8 +459,8 @@ img {
 }
 
 .animated {
-  -webkit-animation-duration: 750ms;
-          animation-duration: 750ms;
+  -webkit-animation-duration: 500ms;
+          animation-duration: 500ms;
 }
 
 .fadeInUp {
@@ -472,16 +472,12 @@ img {
 
 @keyframes fadeInUp {
   0% {
-    opacity: 0.15;
-    -webkit-filter: blur(1px);
-            filter: blur(1px);
+    opacity: 0;
     transform: translateY(1.5rem);
   }
 
   100% {
     opacity: 1;
-    -webkit-filter: blur(0);
-            filter: blur(0);
     transform: translateX(0);
   }
 }
@@ -836,10 +832,6 @@ img {
   margin-left: auto;
 }
 
-.-ml-4 {
-  margin-left: -1rem;
-}
-
 .-mt-8 {
   margin-top: -2rem;
 }
@@ -859,10 +851,6 @@ img {
 
 .p-2 {
   padding: 0.5rem;
-}
-
-.p-4 {
-  padding: 1rem;
 }
 
 .p-8 {
@@ -933,10 +921,6 @@ img {
 
 .text-4xl {
   font-size: 2.25rem;
-}
-
-.italic {
-  font-style: italic;
 }
 
 .antialiased {

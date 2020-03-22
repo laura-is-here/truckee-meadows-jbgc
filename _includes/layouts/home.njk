@@ -21,17 +21,17 @@ templateEngineOverride: njk,md
     <h2>{{ bannerOne.header }}</h2>
     {{ bannerOne.content | safe }}
   </div>
-  <img
-    alt=""
-    data-src="{{ bannerTwo.image }}"
-    class="w-full md:w-1/2 object-cover h-64 md:h-screen lazy-load animateWhenVisible"
-  />
   <div
     class="flex flex-col justify-center p-8 w-full md:w-1/2 markdown bg-black text-gray-200 animateWhenVisible"
   >
     <h2>{{ bannerTwo.header }}</h2>
     {{ bannerTwo.content | safe }}
   </div>
+  <img
+    alt=""
+    data-src="{{ bannerTwo.image }}"
+    class="w-full md:w-1/2 object-cover h-64 md:h-screen lazy-load animateWhenVisible"
+  />
   <div
     class="flex flex-col justify-center p-8 w-full md:w-1/2 markdown text-gray-900 bg-gray-200 animateWhenVisible"
   >
