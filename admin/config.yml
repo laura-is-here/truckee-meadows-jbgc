@@ -40,8 +40,18 @@ collections:
         required: false
         widget: "object"
         fields:
-          - { label: "Header", name: "header", widget: "string" }
-          - { label: "Content", name: "content", widget: "text" }
+          - {
+              label: "Header",
+              name: "header",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Content",
+              name: "content",
+              widget: "text",
+              required: false,
+            }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "home"
     label: "Home Page Banners"
