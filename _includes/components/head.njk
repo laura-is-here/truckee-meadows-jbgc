@@ -4,7 +4,7 @@
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="{{ title or renderData.title or metadata.title }}" />
-  <meta property="og:description" content="{{ summary or post.data.summary }}" />
+  <meta property="og:description" content="{{ summary or post.data.summary or page.data.summary }}" />
   <meta property="og:url" content="https://tmjbgc.org{{ post.url or page.url }}" />
   <meta property="og:site_name" content="Truckee Meadows John Brown Gun Club" />
   <meta property="article:publisher" content="https://www.facebook.com/TruckeeMeadowsJBGC/" />
