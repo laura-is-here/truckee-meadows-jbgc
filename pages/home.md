@@ -2,7 +2,7 @@
 layout: layouts/home.njk
 permalink: /
 date: 2016-01-01T00:00:00.000Z
-title: TMJBGC Home
+title: TMJBGC Landing Page
 eleventyNavigation:
   key: Home
   order: 0
