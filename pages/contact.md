@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
+title: Contact Us
 section: contact
 date: 2018-01-01T00:00:00.000Z
 permalink: /contact/index.html
