@@ -1246,17 +1246,9 @@ video {
   background-color: #276749;
 }
 
-<<<<<<< HEAD
 .bg-green-900 {
   background-color: #22543d;
 }
-=======
-.footer-txt-small {
-   font-size: 0.8rem;   
-}
-
-@media (min-width: 768px) {
->>>>>>> 7112b3ef93366c529130cdaeb474f126036c61f2
 
 .bg-teal-100 {
   background-color: #e6fffa;
