@@ -9,4 +9,4 @@ eleventyNavigation:
 ---
 ***Latest  Updates***
 
-<hr />
+<hr class="border-b-2 border-gray-900 w-48 mb-4" />
