@@ -7,6 +7,6 @@ eleventyNavigation:
   key: Articles
   order: 2
 ---
-***Latest  Updates***
+***..:: Latest  Updates ::..***
 
 <hr class="border-b-2 border-gray-900 w-48 mb-4" />
