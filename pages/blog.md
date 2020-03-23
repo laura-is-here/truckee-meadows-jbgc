@@ -7,6 +7,4 @@ eleventyNavigation:
   key: Articles
   order: 2
 ---
-***Latest  Updates***
-
-\-----------------
+<u>***Latest  Updates***</u>
