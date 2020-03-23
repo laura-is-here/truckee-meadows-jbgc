@@ -1,7 +1,7 @@
 ---
 layout: layouts/blog.njk
 title: TMJBGC Blog
-summary: Truckee Meadows John Gun Club Articles Landing Page
+summary: Truckee Meadows John Brown Gun Club Articles Landing Page
 date: 2017-01-01T00:00:00.000Z
 permalink: /blog/index.html
 eleventyNavigation:
