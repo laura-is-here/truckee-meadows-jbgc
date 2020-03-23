@@ -9,47 +9,29 @@ templateEngineOverride: njk,md
     {{ content | safe }}
   </div>
 </div>
-<div class="flex flex-row flex-wrap justify-start">
+{% for item in collections.homePageBanners %}
+<div
+  class="flex flex-row md:flex-row{% if item.data.imagePlacement === 'right' %}-reverse{% endif %} flex-wrap justify-start"
+>
   <img
-    data-src="{{ bannerOne.image }}"
+    data-src="{{ item.data.image }}"
     alt=""
     class="w-full md:w-1/2 object-cover lazy-load animateWhenVisible"
   />
   <div
     class="flex flex-col justify-center p-8 w-full md:w-1/2 markdown animateWhenVisible"
   >
-    <h2>{{ bannerOne.header }}</h2>
-    {{ bannerOne.content | safe }}
+    <h2>{{ item.data.title }}</h2>
+    {{ item.templateContent | safe }}
   </div>
-  <div
-    class="flex flex-col justify-center p-8 w-full md:w-1/2 markdown bg-black text-gray-200 animateWhenVisible"
+</div>
+{% endfor %}
+<div class="bg-red-500 text-gray-100 p-8 w-full text-2xl leading-tight">
+  <h2 class="text-2xl font-semibold mb-4">{{ callToAction.header }}</h2>
+  {{ callToAction.content | safe }}
+  <a
+    href="/contact/"
+    class="block my-4 w-48 p-2 border-4 border-gray-100 text-center text-2xl font-semibold hover:bg-black hover:border-black "
+    >Contact Us</a
   >
-    <h2>{{ bannerTwo.header }}</h2>
-    {{ bannerTwo.content | safe }}
-  </div>
-  <img
-    alt=""
-    data-src="{{ bannerTwo.image }}"
-    class="w-full md:w-1/2 object-cover h-64 md:h-screen lazy-load animateWhenVisible"
-  />
-  <img
-    data-src="{{ bannerThree.image }}"
-    alt=""
-    class="w-full md:w-1/2 object-cover h-64 md:h-screen animateWhenVisible lazy-load"
-  />
-  <div
-    class="flex flex-col justify-center p-8 w-full md:w-1/2 markdown text-gray-900 bg-gray-200 animateWhenVisible"
-  >
-    <h2>{{ bannerThree.header }}</h2>
-    {{ bannerThree.content | safe }}
-  </div>
-  <div class="bg-red-400 text-gray-100 p-8 w-full text-2xl leading-tight">
-    <h2 class="text-2xl font-semibold mb-4">{{ bannerFour.header }}</h2>
-    {{ bannerFour.content | safe }}
-    <a
-      href="/contact/"
-      class="block my-4 w-48 p-2 border-4 border-gray-100 text-center text-2xl font-semibold hover:bg-black hover:border-black "
-      >Contact Us</a
-    >
-  </div>
 </div>

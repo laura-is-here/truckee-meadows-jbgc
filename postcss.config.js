@@ -5,7 +5,7 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
     "./_includes/**/*.njk"
     // etc.
   ],
-  whitelist: ["animated", "fadeInUp"],
+  whitelist: ["animated", "fadeInUp", "md:flex-row-reverse"],
 
   // Include any special characters you're using in this regular expression
   defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || []
@@ -15,6 +15,6 @@ module.exports = {
   plugins: [
     require("tailwindcss"),
     require("autoprefixer"),
-    ...(process.env.NODE_ENV !== "production" ? [purgecss] : [])
+    ...(process.env.NODE_ENV === "production" ? [purgecss] : [])
   ]
 };

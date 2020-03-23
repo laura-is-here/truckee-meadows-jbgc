@@ -17,7 +17,7 @@
     <p class="mb-2">
       {{ post.data.summary }}
     </p>
-    {% endif %} {% if post.data.tags %}
+    {% endif %} {% if post.data.tags %}r
     <p class="mb-2">
       {% for tag in post.data.tags %} {%- if tag != "post" -%} {% set tagUrl
       %}/tags/{{ tag }}/{% endset %}

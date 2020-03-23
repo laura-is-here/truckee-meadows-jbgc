@@ -1,3 +1,5 @@
+/* purgecss start ignore */
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -994,6 +996,8 @@ video {
   border-color: #63b3ed;
 }
 
+/* purgecss end ignore */
+
 .sr-only {
   position: absolute;
   width: 1px;
@@ -1123,7 +1127,7 @@ video {
 }
 
 .bg-red-500 {
-  background-color: #a70000;
+  background-color: #d70000;
 }
 
 .bg-red-600 {
@@ -1249,13 +1253,6 @@ video {
 .bg-green-900 {
   background-color: #22543d;
 }
-<<<<<<< HEAD
-=======
-=======
-
-@media (min-width: 768px) {
->>>>>>> 7112b3ef93366c529130cdaeb474f126036c61f2
->>>>>>> 9add21cfeee3cf368884fc43f479632261599175
 
 .bg-teal-100 {
   background-color: #e6fffa;
@@ -1502,7 +1499,7 @@ video {
 }
 
 .hover\:bg-red-500:hover {
-  background-color: #a70000;
+  background-color: #d70000;
 }
 
 .hover\:bg-red-600:hover {
@@ -1874,7 +1871,7 @@ video {
 }
 
 .focus\:bg-red-500:focus {
-  background-color: #a70000;
+  background-color: #d70000;
 }
 
 .focus\:bg-red-600:focus {
@@ -2326,7 +2323,7 @@ video {
 }
 
 .border-red-500 {
-  border-color: #a70000;
+  border-color: #d70000;
 }
 
 .border-red-600 {
@@ -2698,7 +2695,7 @@ video {
 }
 
 .hover\:border-red-500:hover {
-  border-color: #a70000;
+  border-color: #d70000;
 }
 
 .hover\:border-red-600:hover {
@@ -3070,7 +3067,7 @@ video {
 }
 
 .focus\:border-red-500:focus {
-  border-color: #a70000;
+  border-color: #d70000;
 }
 
 .focus\:border-red-600:focus {
@@ -6672,23 +6669,23 @@ video {
 }
 
 .placeholder-red-500::-webkit-input-placeholder {
-  color: #a70000;
+  color: #d70000;
 }
 
 .placeholder-red-500::-moz-placeholder {
-  color: #a70000;
+  color: #d70000;
 }
 
 .placeholder-red-500:-ms-input-placeholder {
-  color: #a70000;
+  color: #d70000;
 }
 
 .placeholder-red-500::-ms-input-placeholder {
-  color: #a70000;
+  color: #d70000;
 }
 
 .placeholder-red-500::placeholder {
-  color: #a70000;
+  color: #d70000;
 }
 
 .placeholder-red-600::-webkit-input-placeholder {
@@ -8532,23 +8529,23 @@ video {
 }
 
 .focus\:placeholder-red-500:focus::-webkit-input-placeholder {
-  color: #a70000;
+  color: #d70000;
 }
 
 .focus\:placeholder-red-500:focus::-moz-placeholder {
-  color: #a70000;
+  color: #d70000;
 }
 
 .focus\:placeholder-red-500:focus:-ms-input-placeholder {
-  color: #a70000;
+  color: #d70000;
 }
 
 .focus\:placeholder-red-500:focus::-ms-input-placeholder {
-  color: #a70000;
+  color: #d70000;
 }
 
 .focus\:placeholder-red-500:focus::placeholder {
-  color: #a70000;
+  color: #d70000;
 }
 
 .focus\:placeholder-red-600:focus::-webkit-input-placeholder {
@@ -10411,7 +10408,7 @@ video {
 }
 
 .text-red-500 {
-  color: #a70000;
+  color: #d70000;
 }
 
 .text-red-600 {
@@ -10783,7 +10780,7 @@ video {
 }
 
 .hover\:text-red-500:hover {
-  color: #a70000;
+  color: #d70000;
 }
 
 .hover\:text-red-600:hover {
@@ -11155,7 +11152,7 @@ video {
 }
 
 .focus\:text-red-500:focus {
-  color: #a70000;
+  color: #d70000;
 }
 
 .focus\:text-red-600:focus {
@@ -14454,7 +14451,7 @@ video {
   }
 
   .sm\:bg-red-500 {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .sm\:bg-red-600 {
@@ -14826,7 +14823,7 @@ video {
   }
 
   .sm\:hover\:bg-red-500:hover {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .sm\:hover\:bg-red-600:hover {
@@ -15198,7 +15195,7 @@ video {
   }
 
   .sm\:focus\:bg-red-500:focus {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .sm\:focus\:bg-red-600:focus {
@@ -15650,7 +15647,7 @@ video {
   }
 
   .sm\:border-red-500 {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .sm\:border-red-600 {
@@ -16022,7 +16019,7 @@ video {
   }
 
   .sm\:hover\:border-red-500:hover {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .sm\:hover\:border-red-600:hover {
@@ -16394,7 +16391,7 @@ video {
   }
 
   .sm\:focus\:border-red-500:focus {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .sm\:focus\:border-red-600:focus {
@@ -19996,23 +19993,23 @@ video {
   }
 
   .sm\:placeholder-red-500::-webkit-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:placeholder-red-500::-moz-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:placeholder-red-500:-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:placeholder-red-500::-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:placeholder-red-500::placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:placeholder-red-600::-webkit-input-placeholder {
@@ -21856,23 +21853,23 @@ video {
   }
 
   .sm\:focus\:placeholder-red-500:focus::-webkit-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:focus\:placeholder-red-500:focus::-moz-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:focus\:placeholder-red-500:focus:-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:focus\:placeholder-red-500:focus::-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:focus\:placeholder-red-500:focus::placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:focus\:placeholder-red-600:focus::-webkit-input-placeholder {
@@ -23735,7 +23732,7 @@ video {
   }
 
   .sm\:text-red-500 {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:text-red-600 {
@@ -24107,7 +24104,7 @@ video {
   }
 
   .sm\:hover\:text-red-500:hover {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:hover\:text-red-600:hover {
@@ -24479,7 +24476,7 @@ video {
   }
 
   .sm\:focus\:text-red-500:focus {
-    color: #a70000;
+    color: #d70000;
   }
 
   .sm\:focus\:text-red-600:focus {
@@ -27779,7 +27776,7 @@ video {
   }
 
   .md\:bg-red-500 {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .md\:bg-red-600 {
@@ -28151,7 +28148,7 @@ video {
   }
 
   .md\:hover\:bg-red-500:hover {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .md\:hover\:bg-red-600:hover {
@@ -28523,7 +28520,7 @@ video {
   }
 
   .md\:focus\:bg-red-500:focus {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .md\:focus\:bg-red-600:focus {
@@ -28975,7 +28972,7 @@ video {
   }
 
   .md\:border-red-500 {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .md\:border-red-600 {
@@ -29347,7 +29344,7 @@ video {
   }
 
   .md\:hover\:border-red-500:hover {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .md\:hover\:border-red-600:hover {
@@ -29719,7 +29716,7 @@ video {
   }
 
   .md\:focus\:border-red-500:focus {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .md\:focus\:border-red-600:focus {
@@ -33321,23 +33318,23 @@ video {
   }
 
   .md\:placeholder-red-500::-webkit-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:placeholder-red-500::-moz-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:placeholder-red-500:-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:placeholder-red-500::-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:placeholder-red-500::placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:placeholder-red-600::-webkit-input-placeholder {
@@ -35181,23 +35178,23 @@ video {
   }
 
   .md\:focus\:placeholder-red-500:focus::-webkit-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:focus\:placeholder-red-500:focus::-moz-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:focus\:placeholder-red-500:focus:-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:focus\:placeholder-red-500:focus::-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:focus\:placeholder-red-500:focus::placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:focus\:placeholder-red-600:focus::-webkit-input-placeholder {
@@ -37060,7 +37057,7 @@ video {
   }
 
   .md\:text-red-500 {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:text-red-600 {
@@ -37432,7 +37429,7 @@ video {
   }
 
   .md\:hover\:text-red-500:hover {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:hover\:text-red-600:hover {
@@ -37804,7 +37801,7 @@ video {
   }
 
   .md\:focus\:text-red-500:focus {
-    color: #a70000;
+    color: #d70000;
   }
 
   .md\:focus\:text-red-600:focus {
@@ -41104,7 +41101,7 @@ video {
   }
 
   .lg\:bg-red-500 {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .lg\:bg-red-600 {
@@ -41476,7 +41473,7 @@ video {
   }
 
   .lg\:hover\:bg-red-500:hover {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .lg\:hover\:bg-red-600:hover {
@@ -41848,7 +41845,7 @@ video {
   }
 
   .lg\:focus\:bg-red-500:focus {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .lg\:focus\:bg-red-600:focus {
@@ -42300,7 +42297,7 @@ video {
   }
 
   .lg\:border-red-500 {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .lg\:border-red-600 {
@@ -42672,7 +42669,7 @@ video {
   }
 
   .lg\:hover\:border-red-500:hover {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .lg\:hover\:border-red-600:hover {
@@ -43044,7 +43041,7 @@ video {
   }
 
   .lg\:focus\:border-red-500:focus {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .lg\:focus\:border-red-600:focus {
@@ -46646,23 +46643,23 @@ video {
   }
 
   .lg\:placeholder-red-500::-webkit-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:placeholder-red-500::-moz-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:placeholder-red-500:-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:placeholder-red-500::-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:placeholder-red-500::placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:placeholder-red-600::-webkit-input-placeholder {
@@ -48506,23 +48503,23 @@ video {
   }
 
   .lg\:focus\:placeholder-red-500:focus::-webkit-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:focus\:placeholder-red-500:focus::-moz-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:focus\:placeholder-red-500:focus:-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:focus\:placeholder-red-500:focus::-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:focus\:placeholder-red-500:focus::placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:focus\:placeholder-red-600:focus::-webkit-input-placeholder {
@@ -50385,7 +50382,7 @@ video {
   }
 
   .lg\:text-red-500 {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:text-red-600 {
@@ -50757,7 +50754,7 @@ video {
   }
 
   .lg\:hover\:text-red-500:hover {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:hover\:text-red-600:hover {
@@ -51129,7 +51126,7 @@ video {
   }
 
   .lg\:focus\:text-red-500:focus {
-    color: #a70000;
+    color: #d70000;
   }
 
   .lg\:focus\:text-red-600:focus {
@@ -54429,7 +54426,7 @@ video {
   }
 
   .xl\:bg-red-500 {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .xl\:bg-red-600 {
@@ -54801,7 +54798,7 @@ video {
   }
 
   .xl\:hover\:bg-red-500:hover {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .xl\:hover\:bg-red-600:hover {
@@ -55173,7 +55170,7 @@ video {
   }
 
   .xl\:focus\:bg-red-500:focus {
-    background-color: #a70000;
+    background-color: #d70000;
   }
 
   .xl\:focus\:bg-red-600:focus {
@@ -55625,7 +55622,7 @@ video {
   }
 
   .xl\:border-red-500 {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .xl\:border-red-600 {
@@ -55997,7 +55994,7 @@ video {
   }
 
   .xl\:hover\:border-red-500:hover {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .xl\:hover\:border-red-600:hover {
@@ -56369,7 +56366,7 @@ video {
   }
 
   .xl\:focus\:border-red-500:focus {
-    border-color: #a70000;
+    border-color: #d70000;
   }
 
   .xl\:focus\:border-red-600:focus {
@@ -59971,23 +59968,23 @@ video {
   }
 
   .xl\:placeholder-red-500::-webkit-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:placeholder-red-500::-moz-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:placeholder-red-500:-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:placeholder-red-500::-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:placeholder-red-500::placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:placeholder-red-600::-webkit-input-placeholder {
@@ -61831,23 +61828,23 @@ video {
   }
 
   .xl\:focus\:placeholder-red-500:focus::-webkit-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:focus\:placeholder-red-500:focus::-moz-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:focus\:placeholder-red-500:focus:-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:focus\:placeholder-red-500:focus::-ms-input-placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:focus\:placeholder-red-500:focus::placeholder {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:focus\:placeholder-red-600:focus::-webkit-input-placeholder {
@@ -63710,7 +63707,7 @@ video {
   }
 
   .xl\:text-red-500 {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:text-red-600 {
@@ -64082,7 +64079,7 @@ video {
   }
 
   .xl\:hover\:text-red-500:hover {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:hover\:text-red-600:hover {
@@ -64454,7 +64451,7 @@ video {
   }
 
   .xl\:focus\:text-red-500:focus {
-    color: #a70000;
+    color: #d70000;
   }
 
   .xl\:focus\:text-red-600:focus {

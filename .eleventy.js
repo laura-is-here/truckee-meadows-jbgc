@@ -46,6 +46,12 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection("homePageBanners", function(collection) {
+    return collection.getFilteredByTag("homePageBanner").sort(function(a, b) {
+      return a.data.order - b.data.order;
+    });
+  });
+
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
