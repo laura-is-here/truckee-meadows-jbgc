@@ -1,3 +1,4 @@
+/* purgecss start ignore */
 @tailwind base;
 
 .jb-hero-image {
@@ -39,6 +40,7 @@
 .markdown blockquote {
   @apply pl-2 text-xl opacity-50 border-gray-900 border-l-4;
 }
+
 .markdown a:hover {
   @apply text-red-400;
 }
@@ -77,5 +79,6 @@
 }
 
 @tailwind components;
+/* purgecss end ignore */
 
 @tailwind utilities;
