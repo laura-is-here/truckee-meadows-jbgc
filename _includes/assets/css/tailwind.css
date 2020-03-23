@@ -38,7 +38,7 @@
 }
 
 .markdown blockquote {
-  @apply pl-2 text-xl opacity-50 border-gray-900 border-l-4;
+  @apply pl-2 opacity-50 border-gray-900 border-l-4 leading-tight;
 }
 
 .markdown a:hover {
