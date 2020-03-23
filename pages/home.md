@@ -24,7 +24,7 @@ bannerTwo:
 layout: layouts/home.njk
 permalink: /
 date: 2016-01-01T00:00:00.000Z
-title: Truckee Meadows John Brown Gun Club
+title: TMJBGC
 bannerOne:
   header: Inspired by John Brown
   image: /static/img/john-brown.png
