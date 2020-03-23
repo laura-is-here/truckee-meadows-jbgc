@@ -32,6 +32,17 @@
   @apply leading-relaxed;
 }
 
+.markdown a {
+  @apply underline;
+}
+
+.markdown blockquote {
+  @apply pl-2 text-xl opacity-50 border-gray-900 border-l-4;
+}
+.markdown a:hover {
+  @apply text-red-400;
+}
+
 .markdown p {
   @apply mb-2;
   @apply font-sans;
