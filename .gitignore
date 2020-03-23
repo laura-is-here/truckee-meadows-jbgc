@@ -1,3 +1,6 @@
 _site/
 node_modules/
 package-lock.json
+.DS_Store
+_includes/.DS_Store
+_includes/assets/.DS_Store
