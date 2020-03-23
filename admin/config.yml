@@ -35,13 +35,13 @@ collections:
         fields:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
-      - label: "Call to Action",
-        name: "callToAction",
-        required: "false",
-        widget: "object",
-        fields: 
-          - { label: "Header", name: "header", widget: "string"}
-          - { label: "Content", name: "content", widget: "text"}
+      - label: "Call to Action"
+        name: "callToAction"
+        required: "false"
+        widget: "object"
+        fields:
+          - { label: "Header", name: "header", widget: "string" }
+          - { label: "Content", name: "content", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "home"
     label: "Home Page Banners"
