@@ -1,7 +1,7 @@
 ---
 layout: layouts/contact.njk
 title: Contact Us
-summary: Truckee Meadows John Gun Club Contact Page
+summary: Truckee Meadows John Brown Gun Club Contact Page
 section: contact
 date: 2018-01-01T00:00:00.000Z
 permalink: /contact/index.html
