@@ -25,7 +25,7 @@ module.exports = {
           "serif"
         ],
         sans: [
-          "Roboto",
+          "Ubuntu",
           "system-ui",
           "-apple-system",
           "BlinkMacSystemFont",

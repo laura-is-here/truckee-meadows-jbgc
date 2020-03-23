@@ -3,10 +3,6 @@ title: Washoe County Mutual Aid Solidarity Network
 backgroundDark: false
 image: /static/img/img_7237.png
 imagePlacement: left
-<<<<<<< HEAD
-=======
-order: 3
->>>>>>> 2c2f5619f05273e79822aeff144f056f1fc693ac
 ---
 
 Washoe County has the opportunity to come together as neighbors and friends to help care for those of us most vulnerable to the economic disruption and health dangers of COVID-19: people facing homelessness, the elderly, the young, the immunocompromised, the poor, and others who are unable to restock the basic supplies they and their families need.
