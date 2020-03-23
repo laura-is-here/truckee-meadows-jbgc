@@ -50,7 +50,7 @@ bannerFour:
     We offer support upon request to those in our communities targeted by white
     supremacists and other agents of oppression and exploitation. We also offer
     trainings and concealed pistol license assistance.
-title: Truckee Meadows JBGC
+title: TMJBGC Home
 eleventyNavigation:
   key: Home
   order: 0
