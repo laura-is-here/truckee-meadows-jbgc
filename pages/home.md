@@ -3,6 +3,7 @@ bannerTwo:
   header: We Organize Against Fascism And Train In Defense
   image: /static/img/dont-tread-on-us.png
   content: >-
+
     We work to counter the rise of fascist and far-right groups and entities in
     the Truckee Meadows.<br /><br />That includes disrupting fascists and their
     structures to keep them from effectively organizing, and especially
@@ -21,6 +22,7 @@ bannerOne:
   header: Inspired by John Brown
   image: /static/img/john-brown.png
   content: >-
+
     Our name comes from the abolitionist John Brown, who, in 1859, led a raid on
     the armory at Harpers Ferry intending to start a slave liberation movement
     (with support from HarrietTubman).<br /><br />While that raid failed,
@@ -34,6 +36,7 @@ bannerThree:
   header: Washoe County Mutual Aid Solidarity Network
   image: /static/img/img_7237.png
   content: >-
+
     Washoe County has the opportunity to come together as neighbors and friends
     to help care for those of us most vulnerable to the economic disruption and
     health dangers of COVID-19: people facing homelessness, the elderly, the
@@ -49,6 +52,7 @@ bannerThree:
 bannerFour:
   header: To our community...
   content: >-
+
     We offer support upon request to those in our communities targeted by white
     supremacists and other agents of oppression and exploitation. We also offer
     trainings and concealed pistol license assistance.
@@ -56,4 +60,5 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+
 TMJBGC is an anti-fascist, anti-racist, pro-LGBTQ+, pro-worker community defense organization committed to accountable, community-led defense in the Truckee Meadows region of Northern Nevada.<br /><br />We believe in **active resistance** to the corrosive and destructive social effects of white supremacy, sexism, bigotry, and economic exploitation.<br /><br />We stand in defense of the **well-being of the community** over the enrichment of the individual, and we stand in solidarity with those who share our mission for a just future.
