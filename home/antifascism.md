@@ -3,6 +3,7 @@ title: We Organize Against Fascism And Train In Defense
 image: /static/img/dont-tread-on-us.png
 order: 1
 imagePlacement: right
+backgroundDark: true
 ---
 
 We work to counter the rise of fascist and far-right groups and entities in the Truckee Meadows.
