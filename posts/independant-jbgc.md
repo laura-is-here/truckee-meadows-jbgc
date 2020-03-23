@@ -1,7 +1,9 @@
 ---
 title: An Independent JBGC
 date: 2020-03-22T00:48:40.982Z
-summary: 'We are an unaffiliated, independent John Brown Gun Club.'
+summary: >-
+  We are an independent John Brown Gun Club organizing in the Truckee Meadows
+  region of Northern Nevada.
 tags:
   - john brown
   - truckee meadows
