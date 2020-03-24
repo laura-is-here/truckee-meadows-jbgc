@@ -25,6 +25,4 @@ In order to ensure everyone is getting the best instruction, and to provide a sa
 
 For information on how to register for a Community Range Day, please [contact us](/contact/).
 
-![Defend Truckee Meadows](/static/img/defend-truckee-meadows-button.png)
-
-<img src="/static/img/defend-truckee-meadows-button.png" alt="Defend Truckke Meadows" title="Defend Truckke Meadows" style="display:block;margin-left:auto;margin-right:auto;width:125px;" />
+![Defend Truckee Meadows](/static/img/defend-truckee-meadows-button.png){style="width:125px;"}
