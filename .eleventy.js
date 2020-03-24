@@ -4,6 +4,7 @@ const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 const SocialIcon = require("./_includes/components/socialIcon.js");
+const ExternalLink = require("./_includes/components/externalLink.js");
 
 module.exports = function(eleventyConfig) {
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
@@ -55,6 +56,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addPairedShortcode("SocialIcon", SocialIcon);
+  eleventyConfig.addPairedShortcode("ExternalLink", ExternalLink);
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");

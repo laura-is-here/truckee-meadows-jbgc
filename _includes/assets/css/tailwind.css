@@ -66,16 +66,19 @@
 .markdown h2 {
   @apply text-2xl font-semibold leading-none mb-4;
 }
+
 .markdown h3 {
   @apply text-xl font-semibold leading-none mb-4;
 }
+
 .markdown h4,
 .markdown h5,
 .markdown h6 {
   @apply font-semibold leading-none mb-4;
 }
+
 .markdown img {
-  @apply w-64 object-cover mb-2;
+  @apply object-cover mx-auto mb-2;
 }
 
 @tailwind components;
