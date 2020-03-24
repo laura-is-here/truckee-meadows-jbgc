@@ -22,7 +22,6 @@ Washoe County has the opportunity to come together as neighbors and friends to h
 We are participating in a COVID-19 Mutual Aid Solidarity Network, comprised of different grassroots organizations, movements and organizers, who are committed to organizing mutual material support in the community. Our goal is to immediately provide grocery and supply deliveries, and eventually work toward expanding to other community support services like running errands, dog walking, childcare, caregiving, first line medical training and response, and mental health support for those impacted by the pandemic.
 
 **Contact**{%- SocialIcon "envelope", "mailto:washoecomasn@gmail.com?Subject=Reaching out!" -%}washoecomasn@gmail.com{%- endSocialIcon -%}
-
-**Social Media**{%- SocialIcon "twitter", "https://twitter.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}
+{%- SocialIcon "twitter", "https://twitter.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}
 {%- SocialIcon "instagram", "https://www.instagram.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}
 {%- SocialIcon "facebook", "https://www.facebook.com/Washoe-County-Mutual-Aid-Solidarity-Network-107028287594023/" -%}@WashoeCoMASN{%- endSocialIcon -%}
