@@ -52,3 +52,11 @@ function lazyLoad() {
   }
 }
 lazyLoad();
+
+const copyPostLink = document.querySelector("#copyPostLink");
+const postLink = document.querySelector("#postLink");
+
+copyPostLink.addEventListener("click", () => {
+  postLink.select();
+  document.execCommand("copy");
+});

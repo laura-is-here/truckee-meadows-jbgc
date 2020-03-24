@@ -1,4 +1,5 @@
 {
   "title": "Truckee Meadows John Brown Gun Club",
-  "image": "https://tmjbgc.org/static/img/logo.png"
+  "image": "https://tmjbgc.org/static/img/logo.png",
+  "baseURL": "https://tmjbgc.org"
 }

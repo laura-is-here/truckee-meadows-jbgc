@@ -11,6 +11,22 @@ section: post
       </time>
     </p>
     <h1 class="text-2xl leading-tight mb-2">{{ title }}</h1>
+    <div class="mb-2 ">
+      <button
+        class="bg-gray-100 text-xs shadow border-2 border-gray-900 p-2 rounded"
+        id="copyPostLink"
+        aria-label="Copy the link to this post to the clipboard"
+      >
+        <span class="iconify inline-block" data-icon="fa:copy"></span>
+      </button>
+      <input
+        class="form-input p-2 text-xs"
+        type="text"
+        id="postLink"
+        value="{{ metadata.baseURL }}{{ page.url }}"
+        readonly
+      />
+    </div>
 
     <div class="markdown mb-4">
       {{ layoutContent | safe }}
