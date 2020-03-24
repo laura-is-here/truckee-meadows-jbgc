@@ -1,6 +1,6 @@
 ---
 title: Community Range Days
-date: 2020-03-23T18:20:33.493Z
+date: 2020-02-23T19:20:00.000Z
 image: 'https://tmjbgc.org/static/img/defend-truckee-meadows-button.png'
 summary: >-
   Community Range Day is an opportunity for members of all communities, who have
