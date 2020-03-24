@@ -7,8 +7,14 @@
     property="og:title"
     content="{{ title or renderData.title or metadata.title }}"
   />
-  <meta property="og:description" content="{{ data.summary }}" />
-  <meta property="og:url" content="{{ url }}" />
+  <meta
+    property="og:description"
+    content="{{ summary or post.data.summary or page.data.summary }}"
+  />
+  <meta
+    property="og:url"
+    content="https://tmjbgc.org{{ post.url or page.url }}"
+  />
   <meta property="og:site_name" content="Truckee Meadows John Brown Gun Club" />
   <meta
     property="article:publisher"
@@ -22,13 +28,8 @@
   <meta name="twitter:card" content="summary" />
   <meta
     name="twitter:description"
-    content="TMJBGC is an anti-fascist, anti-racist, pro-LGBTQ+, pro-worker community defense organization committed to accountable, community-led defense in the Truckee Meadows region of Northern Nevada."
+    content="{{ summary or post.data.summary }}"
   />
-  <meta
-    name="twitter:title"
-    content="{{ title or renderData.title or metadata.title }}"
-  />
-  <meta name="twitter:description" content="{{ data.summary }}" />
   <meta
     name="twitter:title"
     content="{{ title or renderData.title or metadata.title }}"
