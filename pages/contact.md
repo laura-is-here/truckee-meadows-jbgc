@@ -11,7 +11,7 @@ eleventyNavigation:
 ---
 You can contact us through social media or email (preferred):
 
-![](/static/img/twitter.png)
+![Twitter](/static/img/twitter.png)
 
 \
 Twitter: [@TMJBGC](https://twitter.com/TMJBGC)\
