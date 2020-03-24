@@ -15,6 +15,20 @@ section: post
     <div class="markdown mb-4">
       {{ layoutContent | safe }}
     </div>
+    {% if tags %}
+    <p class="mb-2">
+      {% for tag in tags %} {%- if tag != "post" -%} {% set tagUrl %}/tags/{{
+        tag
+      }}/{% endset %}
+      <a
+        href="{{ tagUrl | url }}"
+        rel="tag"
+        class="text-gray-700 hover:text-gray-900"
+        ><small>{{ tag }}</small></a
+      >
+      {%- endif -%} {% endfor %}
+    </p>
+    {% endif %}
     <p class="mb-0 text-gray-700">Share this post:</p>
     <div class="flex flex-row mb-4 text-xs">
       <button
@@ -32,20 +46,6 @@ section: post
         readonly
       />
     </div>
-    {% if tags %}
-    <p class="mb-2">
-      {% for tag in tags %} {%- if tag != "post" -%} {% set tagUrl %}/tags/{{
-        tag
-      }}/{% endset %}
-      <a
-        href="{{ tagUrl | url }}"
-        rel="tag"
-        class="text-gray-700 hover:text-gray-900"
-        ><small>{{ tag }}</small></a
-      >
-      {%- endif -%} {% endfor %}
-    </p>
-    {% endif %}
     <hr class="border-b-2 border-gray-900 w-48 mb-4" />
     <nav>
       <a href="{{ '/blog/' | url }}" class="hover:text-red-400">← Blog index</a>
