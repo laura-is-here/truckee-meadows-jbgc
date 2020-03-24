@@ -35,7 +35,7 @@ section: post
     <hr class="border-b-2 border-gray-900 w-48 mb-4" />
     {% if tags %}
     <p class="mb-2">
-      tags: 
+      <span class="text-gray-700">tags:</span> 
       {% for tag in tags %} {%- if tag != "post" -%} {% set tagUrl %}/tags/{{
         tag
       }}/{% endset %}
