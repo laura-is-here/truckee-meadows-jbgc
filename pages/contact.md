@@ -11,9 +11,9 @@ eleventyNavigation:
 ---
 You can contact us through social media or email (preferred):\
 \
-Twitter: [@TMJBGC](https://twitter.com/TMJBGC)\
+<img src="/static/img/twitter.png" height="25" width="25">[@TMJBGC](https://twitter.com/TMJBGC)\
 Facebook: [@TruckeeMeadowsJBGC](https://www.facebook.com/TruckeeMeadowsJBGC)\
 Email: [tmjbgc@protonmail.ch](<mailto:tmjbgc@protonmail.ch?subject=Reaching out!>)\
-Phone: [\(775\) 391-6271](<tel:+17753916271>) (voicemail only)
+Phone: [(775) 391-6271](tel:+17753916271) (voicemail only)
 
 Or, optionally, you can submit email through the form below. Please note that each submission is passed through a spam filter and if flagged, will display a CAPTCHA challenge to the user.
