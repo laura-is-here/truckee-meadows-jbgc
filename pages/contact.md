@@ -9,7 +9,10 @@ eleventyNavigation:
   key: Contact
   order: 30
 ---
-You can contact us through social media or email (preferred):\
+You can contact us through social media or email (preferred):
+
+![](/static/img/twitter.png)
+
 \
 Twitter: [@TMJBGC](https://twitter.com/TMJBGC)\
 Facebook: [@TruckeeMeadowsJBGC](https://www.facebook.com/TruckeeMeadowsJBGC)\
