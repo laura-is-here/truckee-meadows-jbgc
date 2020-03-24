@@ -8,13 +8,13 @@
   <meta property="og:url" content="https://tmjbgc.org{{ post.url or page.url }}" />
   <meta property="og:site_name" content="Truckee Meadows John Brown Gun Club" />
   <meta property="article:publisher" content="https://www.facebook.com/TruckeeMeadowsJBGC/" />
-  <meta property="og:image" content="{{ post.data.image or metadata.image }}" />
-  <meta property="og:image:secure_url" content="{{ post.data.image or metadata.image }}" />
+  <meta property="og:image" content="{{ metadata.image or post.data.image or page.data.image }}" />
+  <meta property="og:image:secure_url" content="{{ metadata.image or post.data.image or page.data.image }}" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:description" content="{{ summary or post.data.summary or page.data.summary }}" />
   <meta name="twitter:title" content="{{ title or renderData.title or metadata.title }}" />
   <meta name="twitter:site" content="@tmjbgc" />
-  <meta name="twitter:image" content="{{ post.data.image or metadata.image }}" />
+  <meta name="twitter:image" content="{{ metadata.image or post.data.image or page.data.image }}" />
   <meta name="twitter:creator" content="@tmjbgc" />
   <title>{{ title or renderData.title or metadata.title }}</title>
   <script
