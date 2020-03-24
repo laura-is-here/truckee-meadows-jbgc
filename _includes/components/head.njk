@@ -3,24 +3,82 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="{{ title or renderData.title or metadata.title }}" />
-  <meta property="og:description" content="{{ summary or post.data.summary or page.data.summary }}" />
-  <meta property="og:url" content="https://tmjbgc.org{{ post.url or page.url }}" />
+  <meta
+    property="og:title"
+    content="{{ title or renderData.title or metadata.title }}"
+  />
+  <meta
+    property="og:description"
+    content="{{ summary or post.data.summary or page.data.summary }}"
+  />
+  <meta
+    property="og:url"
+    content="https://tmjbgc.org{{ post.url or page.url }}"
+  />
   <meta property="og:site_name" content="Truckee Meadows John Brown Gun Club" />
-  <meta property="article:publisher" content="https://www.facebook.com/TruckeeMeadowsJBGC/" />
-  <meta property="og:image" content="{{ image or post.data.image or page.data.image or metadata.image }}" />
-  <meta property="og:image:secure_url" content="{{ image or post.data.image or page.data.image or metadata.image }}" />
+  <meta
+    property="article:publisher"
+    content="https://www.facebook.com/TruckeeMeadowsJBGC/"
+  />
+  <meta
+    property="og:image"
+    content="{{ image or post.data.image or page.data.image or metadata.image }}"
+  />
+  <meta
+    property="og:image:secure_url"
+    content="{{ image or post.data.image or page.data.image or metadata.image }}"
+  />
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:description" content="{{ summary or post.data.summary or page.data.summary }}" />
-  <meta name="twitter:title" content="{{ title or renderData.title or metadata.title }}" />
+  <meta
+    name="twitter:description"
+    content="{{ summary or post.data.summary or page.data.summary }}"
+  />
+  <meta
+    name="twitter:title"
+    content="{{ title or renderData.title or metadata.title }}"
+  />
   <meta name="twitter:site" content="@tmjbgc" />
-  <meta name="twitter:image" content="{{ image or post.data.image or page.data.image or metadata.image }}" />
+  <meta
+    name="twitter:image"
+    content="{{ image or post.data.image or page.data.image or metadata.image }}"
+  />
   <meta name="twitter:creator" content="@tmjbgc" />
   <title>{{ title or renderData.title or metadata.title }}</title>
   <script
     async
     src="https://identity.netlify.com/v1/netlify-identity-widget.js"
   ></script>
+  <script>
+    CMS.registerEditorComponent({
+      // Internal id of the component
+      id: "youtube",
+      // Visible label
+      label: "Youtube",
+      // Fields the user need to fill out when adding an instance of the component
+      fields: [{ name: "id", label: "Youtube Video ID", widget: "string" }],
+      // Pattern to identify a block as being an instance of this component
+      pattern: /^youtube (\S+)$/,
+      // Function to extract data elements from the regexp match
+      fromBlock: function(match) {
+        return {
+          id: match[1]
+        };
+      },
+      // Function to create a text block from an instance of this component
+      toBlock: function(obj) {
+        return "youtube " + obj.id;
+      },
+      // Preview output for this component. Can either be a string or a React component
+      // (component gives better render performance)
+      toPreview: function(obj) {
+        return (
+          '<img src="http://img.youtube.com/vi/' +
+          obj.id +
+          '/maxresdefault.jpg" alt="Youtube Video"/>'
+        );
+      }
+    });
+  </script>
   <link
     href="/_includes/assets/css/style.css"
     rel="stylesheet"
@@ -33,5 +91,11 @@
   />
 
   {% set js %} {% include "assets/js/inline.js" %} {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
+  <script>
+    {
+      {
+        js | jsmin | safe;
+      }
+    }
+  </script>
 </head>
