@@ -1,19 +1,19 @@
 ---
+section: contact
+summary: Truckee Meadows John Brown Gun Club Contact Page
 layout: layouts/contact.njk
 title: Contact Us
-summary: Truckee Meadows John Brown Gun Club Contact Page
-section: contact
-date: 2018-01-01T00:00:00.000Z
 permalink: /contact/index.html
+date: 2018-01-01T00:00:00.000Z
 eleventyNavigation:
   key: Contact
   order: 30
+callToAction:
+  content: ''
+  header: ''
 ---
 You can contact us through social media or email (preferred):
 
-[Twitter](/static/img/twitter.png "Twitter")
-
-\
 Twitter: [@TMJBGC](https://twitter.com/TMJBGC)\
 Facebook: [@TruckeeMeadowsJBGC](https://www.facebook.com/TruckeeMeadowsJBGC)\
 Email: [tmjbgc@protonmail.ch](<mailto:tmjbgc@protonmail.ch?subject=Reaching out!>)\
