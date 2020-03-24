@@ -15,10 +15,8 @@ We are an independent John Brown Gun Club organizing in the Truckee Meadows regi
 
 As a country, we are at a historical crossroads. We stand unequivocally against authoritarianism in all its forms, against white supremacy and bigotry, and against all forms of oppression and exploitation practiced by any institution or individual. And we hold fast these values over and against the promotion of any single political or ideological system.
 
-We look forward to strengthening our local relationships, supporting individual and community rights to defend and protect themselves, providing training towards that objective, and to founding new working partnerships with other similarly minded Truckee Meadows based groups, in addition to the surrounding counties of Lyon, Story and Douglas and the municipality of Carson City.
+We look forward to strengthening our local relationships, supporting individual and community rights to defend and protect themselves, providing training towards that objective, and to founding new working partnerships with other similarly minded Truckee Meadows based groups, in addition to the quad county region of Carson City, Lyon, Storey, and Douglas.
 
 Solidarity,
-
-
 
 Truckee Meadows John Brown Gun Club
