@@ -23,4 +23,6 @@ We are participating in a COVID-19 Mutual Aid Solidarity Network, comprised of d
 [washoecomasn@gmail.com](mailto:washoecomasn@gmail.com)
 
 **Social Media**\
-[twitter.com/WashoeCoMASN](https://twitter.com/WashoeCoMASN)<br />[instagram.com/WashoeCoMASN](https://www.instagram.com/washoecomasn/)<br />[facebook.com/WashoeCoMASN](https://www.facebook.com/Washoe-County-Mutual-Aid-Solidarity-Network-107028287594023/)
+[twitter.com/WashoeCoMASN](https://twitter.com/WashoeCoMASN)\
+[instagram.com/WashoeCoMASN](https://www.instagram.com/washoecomasn)\
+[facebook.com/WashoeCoMASN](https://www.facebook.com/Washoe-County-Mutual-Aid-Solidarity-Network-107028287594023)
