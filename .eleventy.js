@@ -3,6 +3,8 @@ const UglifyJS = require("uglify-es");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
+const SocialIcon = require("./_includes/components/socialIcon.js");
+
 module.exports = function(eleventyConfig) {
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -52,6 +54,8 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addPairedShortcode("SocialIcon", SocialIcon);
+
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
@@ -76,7 +80,7 @@ module.exports = function(eleventyConfig) {
   );
 
   return {
-    templateFormats: ["md", "njk", "html", "liquid"],
+    templateFormats: ["md", "njk", "html"],
 
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about it.
@@ -84,7 +88,7 @@ module.exports = function(eleventyConfig) {
     // This is only used for URLs (it does not affect your file structure)
     pathPrefix: "/",
 
-    markdownTemplateEngine: "liquid",
+    markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     dir: {

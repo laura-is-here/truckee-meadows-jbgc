@@ -1060,6 +1060,10 @@ video {
   display: block;
 }
 
+.inline-block {
+  display: inline-block;
+}
+
 .flex {
   display: flex;
 }
@@ -1141,6 +1145,10 @@ video {
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
+}
+
+.mr-2 {
+  margin-right: 0.5rem;
 }
 
 .mb-2 {
