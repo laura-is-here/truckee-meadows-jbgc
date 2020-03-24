@@ -14,9 +14,9 @@ callToAction:
 ---
 You can contact us through social media or email (preferred):
 
-{%- SocialIcon "twitter", "https://twitter.com/TMJBGC" -%}@TMJBGC{%- endSocialIcon -%}\
-{%- SocialIcon "facebook", "https://www.facebook.com/TruckeeMeadowsJBGC" -%}@TruckeeMeadowsJBGC{%- endSocialIcon -%}\
-{%- SocialIcon "envelope", "mailto:tmjbgc@protonmail.ch?subject=Reaching%20out!" -%}Email: [tmjbgc@protonmail.ch](<mailto:tmjbgc@protonmail.ch?subject=Reaching out!>){%- endSocialIcon -%}\
+{%- SocialIcon "twitter", "https://twitter.com/TMJBGC" -%}@TMJBGC{%- endSocialIcon -%}
+{%- SocialIcon "facebook", "https://www.facebook.com/TruckeeMeadowsJBGC" -%}@TruckeeMeadowsJBGC{%- endSocialIcon -%}
+{%- SocialIcon "envelope", "mailto:tmjbgc@protonmail.ch?subject=Reaching%20out!" -%}Email: [tmjbgc@protonmail.ch](<mailto:tmjbgc@protonmail.ch?subject=Reaching out!>){%- endSocialIcon -%}
 {%- SocialIcon "phone", "tel:+17753916271" -%}+1 (775) 391-6271{%- endSocialIcon -%}
 
 Or, optionally, you can submit email through the form below. Please note that each submission is passed through a spam filter and if flagged, will display a CAPTCHA challenge to the user.
