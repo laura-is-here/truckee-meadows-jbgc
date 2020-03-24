@@ -1,6 +1,6 @@
 ---
 title: Washoe County Mutual Aid Solidarity Network
-date: 2020-03-24T16:27:56.777Z
+date: 2020-03-15T16:27:00.000Z
 image: 'https://tmjbgc.org/static/img/covid19-mutual-aid-network.png'
 summary: >-
   Washoe County Mutual Aid Solidarity Network is an all-volunteer grassroots
