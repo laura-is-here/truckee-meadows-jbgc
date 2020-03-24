@@ -55,8 +55,13 @@ lazyLoad();
 
 const copyPostLink = document.querySelector("#copyPostLink");
 const postLink = document.querySelector("#postLink");
+const originalPostLink = postLink.value;
 
 copyPostLink.addEventListener("click", () => {
   postLink.select();
   document.execCommand("copy");
+  postLink.value = "Copied!";
+  setTimeout(function() {
+    postLink.value = originalPostLink;
+  }, 2500);
 });
