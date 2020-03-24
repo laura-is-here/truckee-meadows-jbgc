@@ -8,7 +8,7 @@ summary: >-
 tags:
   - post
 ---
-![Washoe County Mutual Aid Solidarity Network Logo](/static/img/covid19-mutual-aid-network.png "Washoe County Mutual Aid Solidarity Network Logo")
+![](/static/img/covid19-mutual-aid-network.png =1200x500)
 
 Washoe County Mutual Aid Solidarity Network is an all-volunteer grassroots network operating in Washoe County, Nevada, connecting with multiple coalition partners throughout the region.
 
