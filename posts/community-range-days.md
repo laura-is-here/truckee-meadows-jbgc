@@ -1,6 +1,7 @@
 ---
 title: Community Range Days
 date: 2020-03-23T18:20:33.493Z
+image: https://tmjbgc.org/static/img/defend-truckee-meadows-button.png
 summary: >-
   Community Range Day is an opportunity for members of all communities, who have
   little or no firearms experience, to learn the basics of safe firearm use with
