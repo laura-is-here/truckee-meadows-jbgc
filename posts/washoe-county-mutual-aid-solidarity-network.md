@@ -21,7 +21,7 @@ Washoe County has the opportunity to come together as neighbors and friends to h
 
 We are participating in a COVID-19 Mutual Aid Solidarity Network, comprised of different grassroots organizations, movements and organizers, who are committed to organizing mutual material support in the community. Our goal is to immediately provide grocery and supply deliveries, and eventually work toward expanding to other community support services like running errands, dog walking, childcare, caregiving, first line medical training and response, and mental health support for those impacted by the pandemic.
 
-We've had wonderful members in our community asking about donating funds. Washoe Food Not Bombs (@WashoeFNB) is collecting donations. Please [click here](https://www.gofundme.com/f/reno-mutual-aid-project) to visit the GoFundMe page if you prefer to make a monetary donation.
+We've had wonderful members in our community asking about donating funds. Washoe Food Not Bombs ([@WashoeFNB](https://twitter.com/WashoeFNB)) is collecting donations. Please [click here](https://www.gofundme.com/f/reno-mutual-aid-project) to visit their GoFundMe page if you prefer to make a monetary donation.
 
 **Contact**{%- SocialIcon "envelope", "mailto:washoecomasn@gmail.com?Subject=Reaching out!" -%}washoecomasn@gmail.com{%- endSocialIcon -%} {%- SocialIcon "twitter", "https://twitter.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}
 {%- SocialIcon "instagram", "https://www.instagram.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}
