@@ -1,6 +1,7 @@
 ---
 title: Community Range Days
 date: 2020-03-23T18:20:33.493Z
+image: https://tmjbgc.org/static/img/defend-truckee-meadows-button.png
 summary: >-
   Community Range Day is an opportunity for members of all communities, who have
   little or no firearms experience, to learn the basics of safe firearm use with
@@ -23,3 +24,5 @@ All Truckee Meadows John Brown Gun Club trainings are free of charge. We provide
 In order to ensure everyone is getting the best instruction, and to provide a safe environment for those who are participating, we limit the number of participants at our community range days.
 
 For information on how to register for a Community Range Day, please [contact us](/contact/).
+
+<img src="/static/img/defend-truckee-meadows-button.png" alt="Defend Truckke Meadows" title="Defend Truckke Meadows" style="display:block;margin-left:auto;margin-right:auto;width:125px;" />
