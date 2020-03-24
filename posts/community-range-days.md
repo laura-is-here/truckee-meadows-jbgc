@@ -1,7 +1,7 @@
 ---
 title: Community Range Days
 date: 2020-03-23T18:20:33.493Z
-image: https://tmjbgc.org/static/img/defend-truckee-meadows-button.png
+image: 'https://tmjbgc.org/static/img/defend-truckee-meadows-button.png'
 summary: >-
   Community Range Day is an opportunity for members of all communities, who have
   little or no firearms experience, to learn the basics of safe firearm use with
@@ -11,10 +11,9 @@ tags:
   - self-defense
   - range days
 ---
+### ***..:: NOTICE ::..***
 
-### **_..:: NOTICE ::.._**
-
-> _Due to the Coronavirus/COVID-19 outbreak, we are postponing community range days for the foreseeable future. While we are able to organize small groups, we are unable to secure needed ammunition._
+> *Due to the Coronavirus/COVID-19 outbreak, we are postponing community range days for the foreseeable future. While we are able to organize small groups, we are unable to secure needed ammunition.*
 
 Truckee Meadows John Brown Gun Club is an all volunteer community defense and emergency response group with the mission of providing security and training services to groups and individuals of marginalized populations.
 
@@ -26,6 +25,6 @@ In order to ensure everyone is getting the best instruction, and to provide a sa
 
 For information on how to register for a Community Range Day, please [contact us](/contact/).
 
-![Defend Truckee Meadows](/static/img/defend-truckee-meadows-button.png){width="600px"}
+![Defend Truckee Meadows](/static/img/defend-truckee-meadows-button.png)
 
 <img src="/static/img/defend-truckee-meadows-button.png" alt="Defend Truckke Meadows" title="Defend Truckke Meadows" style="display:block;margin-left:auto;margin-right:auto;width:125px;" />
