@@ -24,5 +24,5 @@ We are participating in a COVID-19 Mutual Aid Solidarity Network, comprised of d
 
 **Social Media**\
 [twitter.com/WashoeCoMASN](https://twitter.com/WashoeCoMASN)\
-[instagram.com/washoecomasn](https://www.instagram.com/washoecomasn/)\
+[instagram.com/WashoeCoMASN](https://www.instagram.com/washoecomasn/)\
 [facebook.com/WashoeCoMASN](https://www.facebook.com/Washoe-County-Mutual-Aid-Solidarity-Network-107028287594023/)
