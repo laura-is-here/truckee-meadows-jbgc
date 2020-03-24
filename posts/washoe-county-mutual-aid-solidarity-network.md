@@ -9,7 +9,7 @@ tags:
   - washoe county
   - mutual aid
   - solidarity
-  - anarchcism
+  - anarchism
 ---
 <img src="/static/img/covid19-mutual-aid-network.png" alt="Washoe County Mutual Aid Solidarity Network Logo" title="Washoe County Mutual Aid Solidarity Network Logo" style="display:block;margin-left:auto;margin-right:auto;width:600px;" />
 
