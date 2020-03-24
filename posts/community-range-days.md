@@ -11,9 +11,10 @@ tags:
   - self-defense
   - range days
 ---
-### ***..:: NOTICE ::..***
 
-> *Due to the Coronavirus/COVID-19 outbreak, we are postponing community range days for the foreseeable future. While we are able to organize small groups, we are unable to secure needed ammunition.*
+### **_..:: NOTICE ::.._**
+
+> _Due to the Coronavirus/COVID-19 outbreak, we are postponing community range days for the foreseeable future. While we are able to organize small groups, we are unable to secure needed ammunition._
 
 Truckee Meadows John Brown Gun Club is an all volunteer community defense and emergency response group with the mission of providing security and training services to groups and individuals of marginalized populations.
 
@@ -24,5 +25,7 @@ All Truckee Meadows John Brown Gun Club trainings are free of charge. We provide
 In order to ensure everyone is getting the best instruction, and to provide a safe environment for those who are participating, we limit the number of participants at our community range days.
 
 For information on how to register for a Community Range Day, please [contact us](/contact/).
+
+![Defend Truckee Meadows](/static/img/defend-truckee-meadows-button.png){width="600px"}
 
 <img src="/static/img/defend-truckee-meadows-button.png" alt="Defend Truckke Meadows" title="Defend Truckke Meadows" style="display:block;margin-left:auto;margin-right:auto;width:125px;" />

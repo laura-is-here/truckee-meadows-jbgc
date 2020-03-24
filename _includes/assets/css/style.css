@@ -703,9 +703,10 @@ video {
 }
 
 .markdown img {
-  width: 16rem;
   -o-object-fit: cover;
      object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 0.5rem;
 }
 
@@ -1149,10 +1150,6 @@ video {
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
-}
-
-.mb-0 {
-  margin-bottom: 0;
 }
 
 .mb-2 {
