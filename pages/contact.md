@@ -7,7 +7,7 @@ permalink: /contact/index.html
 date: 2018-01-01T00:00:00.000Z
 eleventyNavigation:
   key: Contact
-  order: 30
+  order: 10
 callToAction:
   content: ''
   header: ''
