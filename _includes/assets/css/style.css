@@ -1065,12 +1065,6 @@ video {
   display: block;
 }
 
-.center {
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-}
-
 .inline-block {
   display: inline-block;
 }
