@@ -1,5 +1,5 @@
 ---
-title: Sharing Hot Meals And Fresh Groceries
+title: Sharing Hot Meals And Fresh Groceries Every Saturday Morning
 permalink: /food-not-bombs/index.html
 eleventyNavigation:
   order: 2
