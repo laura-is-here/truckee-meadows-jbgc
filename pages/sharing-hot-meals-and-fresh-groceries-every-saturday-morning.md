@@ -15,4 +15,4 @@ Food Not Bombs illustrates that direct action can be a viable alternative to rel
 
 All are welcome to share food with us [unless you're a cop](http://aworldwithoutpolice.org/){rel="noopener noreferer" target="_blank"}. We serve food every Saturday morning at Bennett Park (across Arlington Ave from Wingfield Park).
 
-For questions, or to get involved, please [contact us](/contact/) or contact Washoe Food Not Bombs directly at [washoefnb@riseup.net](mailto:washoefnb@riseup.net).
+For questions, or to get involved, please [contact us](/contact/) or contact [Washoe Food Not Bombs](https://twitter.com/WashoeFNB){rel="noopener noreferer" target="_blank"} on their Twitter page.
