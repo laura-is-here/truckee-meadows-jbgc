@@ -1,6 +1,7 @@
 ---
 title: Sharing Hot Meals Every Saturday
-permalink: /food-not-bombs/index.html
+summary: Food is a right, not a privilege.
+permalink: https://tmjbgc.org/food-not-bombs/index.html
 eleventyNavigation:
   order: 2
   key: Food Not Bombs
