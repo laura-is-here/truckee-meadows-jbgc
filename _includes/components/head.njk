@@ -23,5 +23,11 @@
   <link href="/_includes/assets/css/style.css" rel="stylesheet" type="text/css" />
   <link href="https://fonts.googleapis.com/css?family=Merriweather|Ubuntu&display=swap" rel="stylesheet" />
   {% set js %} {% include "assets/js/inline.js" %} {% endset %}
-  <script>{{ js | jsmin | safe; }}</script>
+  <script>
+    {
+      {
+        js | jsmin | safe;
+      }
+    }
+  </script>
 </head>
