@@ -3,7 +3,7 @@ section: contact
 summary: Truckee Meadows John Brown Gun Club Contact Page
 layout: layouts/contact.njk
 title: Contact Us
-permalink: /contact/index.html
+permalink: https://tmjbgc.org/contact/index.html
 date: 2018-01-01T00:00:00.000Z
 eleventyNavigation:
   key: Contact
