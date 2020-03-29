@@ -4,7 +4,7 @@ permalink: /
 date: 2016-01-01T00:00:00.000Z
 title: TMJBGC Landing Page
 summary: >-
-  TMJBGC is an anarcho-syndicalist, anti-fascist, anti-racist, pro-LGBTQ+, pro-worker community
+  TMJBGC is an, anti-fascist, anti-racist, pro-LGBTQ+, syndicalist community
   defense organization committed to accountable, community-led defense in the
   Truckee Meadows region of Northern Nevada.
 eleventyNavigation:
