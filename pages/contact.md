@@ -20,4 +20,4 @@ callToAction:
 
 {%- SocialIcon "twitter", "https://twitter.com/TMJBGC" -%}@TMJBGC{%- endSocialIcon -%}{%- SocialIcon "facebook", "https://www.facebook.com/TruckeeMeadowsJBGC" -%}@TruckeeMeadowsJBGC{%- endSocialIcon -%}
 
-Optionally, you can submit email through the form below. Please note that each submission is passed through a spam filter and if flagged, will display a **CAPTCHA** challenge to the user.
+<p>Optionally, you can submit email through the form below. Please note that each submission is passed through a spam filter and if flagged, will display a **CAPTCHA** challenge to the user.</p>
