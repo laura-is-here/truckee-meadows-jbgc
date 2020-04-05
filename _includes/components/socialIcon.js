@@ -1,9 +1,8 @@
 module.exports = (content, icon, link) => {
   return `
-<div>
+<p>
 	<span class="iconify inline-block" data-icon="fa:${icon}"></span>
 	<a href="${link}" rel="noopener noreferer" target="_blank">${content}</a>
-</div>
-<br clear="all" />
+</p>
 `;
 };
