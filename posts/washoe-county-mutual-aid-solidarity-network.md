@@ -25,8 +25,9 @@ If you seeking assistance or looking to volunteer, please visit the Washoe Count
 
 ### Contact
 
-<div>{%- SocialIcon "phone", "tel:+17754536130" -%}(775) 453-6130{%- endSocialIcon -%}{%- SocialIcon "envelope", "mailto:washoecomasn@gmail.com?Subject=Reaching out!" -%}washoecomasn@gmail.com{%- endSocialIcon -%}</div>
+{%- SocialIcon "phone", "tel:+17754536130" -%}(775) 453-6130{%- endSocialIcon -%}{%- SocialIcon "envelope", "mailto:washoecomasn@gmail.com?Subject=Reaching out!" -%}washoecomasn@gmail.com{%- endSocialIcon -%}
 
+<p>&nbsp;</p>
 ### Social Media
 
-<div>{%- SocialIcon "twitter", "https://twitter.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}{%- SocialIcon "instagram", "https://www.instagram.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}{%- SocialIcon "facebook", "https://www.facebook.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}</div>
+{%- SocialIcon "twitter", "https://twitter.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}{%- SocialIcon "instagram", "https://www.instagram.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}{%- SocialIcon "facebook", "https://www.facebook.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}
