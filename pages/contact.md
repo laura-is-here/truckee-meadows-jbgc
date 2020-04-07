@@ -14,7 +14,7 @@ callToAction:
 ---
 <p class="text-lg"><strong>Phone</strong></p>
 
-{%- SocialIcon "phone", "tel:+17753916271" -%}(775) 391-6271{%- endSocialIcon -%}
+{%- SocialIcon "phone", "tel:+17753916271" -%}(775) 391-6271 (complaints only){%- endSocialIcon -%}
 
 <p class="text-lg"><strong>Email</strong></p>
 
