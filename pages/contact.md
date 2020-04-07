@@ -14,7 +14,7 @@ callToAction:
 ---
 <p class="text-lg"><strong>via phone or e-mail</strong></p>
 
-{%- SocialIcon "phone", "tel:+17753916271" -%}(775) 391-6271{%- endSocialIcon -%}{%- SocialIcon "envelope", "mailto:contact@tmjbgc.org?subject=Reaching%20out!" -%}contact@tmjbgc.org{%- endSocialIcon -%}
+{%- SocialIcon "phone", "tel:+17753916271" -%}(775) 391-6271{%- endSocialIcon -%}{%- SocialIcon "envelope", "mailto:contact@truckeemeadowsjbgc.org?subject=Reaching%20out!" -%}contact@truckeemeadowsjbgc.org{%- endSocialIcon -%}
 
 <p class="text-lg"><strong>on social media</strong></p>
 
