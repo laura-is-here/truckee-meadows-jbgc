@@ -12,6 +12,8 @@ callToAction:
   content: ''
   header: ''
 ---
+Truckee Meadows John Brown Gun Club offers trainings and support to our community. Contact us by email or over social media if you’re interested in learning more about our activities or membership.
+
 <p class="text-lg"><strong>Phone</strong></p>
 
 {%- SocialIcon "phone", "tel:+17753916271" -%}(775) 391-6271 (complaints only){%- endSocialIcon -%}
