@@ -21,7 +21,7 @@ Washoe County has the opportunity to come together as neighbors and friends to h
 
 Truckee Meadows John Brown Gun Club has participated in the launch of the COVID-19 Mutual Aid Solidarity Network, comprised of different grassroots organizations, movements and organizers, who are committed to organizing mutual material support in the community. The goal of the network is community mutual aid such as providing food and supplies, running errands, dog walking, childcare, caregiving, first line medical training and response, seamster services, and mental health support for those impacted by the pandemic.
 
-If you seeking assistance or looking to volunteer, please visit the Washoe County Mutual Aid Solidarity Network website at [washoecomasn.com](https://www.washoecountymasn.org/) or contact the network directly.
+If you seeking assistance or looking to volunteer, please visit the Washoe County Mutual Aid Solidarity Network website at [washoecountymasn.org](https://www.washoecountymasn.org/) or contact the network directly.
 
 <p class="text-lg"><strong>Phone</strong></p>
 
