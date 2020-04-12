@@ -2,7 +2,7 @@
 ShareThisPage: true
 eleventyExcludeFromCollections: true
 title: Community Range Days
-image: 'https://tmjbgc.org/static/img/community-range-day.png'
+image: 'https://truckeemeadowsjbgc.org/static/img/community-range-day.png'
 summary: >-
   Community Range Day is an opportunity for members of all communities, who have
   little or no firearms experience, to learn the basics of safe firearm use with
