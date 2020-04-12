@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html
-  class="text-lg font-serif text-gray-800 bg-gray-100 leading-relaxed antialiased" {% if section %}data-current="{{ section }}"{% endif %} lang="en">
+<html class="text-lg font-serif text-gray-800 bg-gray-100 leading-relaxed antialiased" lang="{{ language or metadata.language }}" {% if section %}data-current="{{ section }}"{% endif %}>
   {% include "components/head.njk" %}
   <body>
     <header class="bg-black text-gray-200 p-8 flex flex-col justify-between items-start">
