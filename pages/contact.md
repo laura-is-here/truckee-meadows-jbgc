@@ -8,9 +8,6 @@ title: Contact Us
 eleventyNavigation:
   key: Contact
   order: 30
-callToAction:
-  content: ""
-  header: ""
 ---
 Truckee Meadows John Brown Gun Club offers trainings and support to our community. Contact us by email or over social media if you’re interested in learning more about our activities or membership.
 
