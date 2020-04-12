@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: false
 title: An Independent JBGC
 date: 2019-08-05T00:48:00.000Z
 summary: >-

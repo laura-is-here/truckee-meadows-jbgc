@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: false
 title: Washoe County Mutual Aid Solidarity Network
 date: 2020-03-15T16:27:00.000Z
 image: 'https://tmjbgc.org/static/img/covid19-mutual-aid-network.png'
