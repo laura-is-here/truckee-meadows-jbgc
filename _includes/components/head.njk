@@ -19,7 +19,7 @@
   <meta name="twitter:image" content="{{ image or post.data.image or page.data.image or metadata.image }}" />
   <meta name="twitter:creator" content="{{ metadata.twitterUsername }}" />
   <link rel="canonical" href="{{ metadata.baseURL }}{{ post.url or page.url }}" />
-  <link href="/_includes/assets/css/style.css" rel="stylesheet" type="text/css" />
+  <link href="{{ metadata.baseURL }}/_includes/assets/css/style.css" rel="stylesheet" type="text/css" />
   <link href="https://fonts.googleapis.com/css?family=Merriweather|Ubuntu&display=swap" rel="stylesheet" />
   {% set js %} {% include "assets/js/inline.js" %} {% endset %}
   <script>
