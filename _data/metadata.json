@@ -6,7 +6,8 @@
   "keywords": "anti-fascism,anti-racism,pro-lgbtq+,lgbtq+,anarcho-syndiclism,john brown gun club,washoe county,truckee meadows,reno,nevada,northern nevada",
   "locale": "en_US",
   "type": "article",
-  "facebookURL": "https://www.facebook.com/TruckeeMeadowsJBGC/",
-  "twitterUsername": "@TMJBGC",
+  "facebookSite": "https://www.facebook.com/TruckeeMeadowsJBGC/",
+  "twitterSite": "https://twitter.com/TMJBGC",
+  "twitterCreator": "@TMJBGC",
   "twitterCard": "summary"
 }
