@@ -1,5 +1,5 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: Community Range Days
 date: 2020-02-23T19:20:00.000Z
 image: 'https://tmjbgc.org/static/img/community-range-day.png'
