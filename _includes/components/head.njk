@@ -3,8 +3,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="keywords" content="{{ metadata.keywords }}" />
   <meta name="description" content="{{ summary or post.data.summary or page.data.summary }}" />
-  <meta property="og:locale" content="en_US" />
-  <meta property="og:type" content="article" />
+  <meta property="og:locale" content="{{ metadata.locale }}" />
+  <meta property="og:type" content="{{ metadata.type }}" />
   <meta property="og:title" content="{{ title or renderData.title or metadata.title }}" />
   <meta property="og:description" content="{{ summary or post.data.summary or page.data.summary }}" />
   <meta property="og:url" content="{{ metadata.baseURL }}{{ post.url or page.url }}" />
