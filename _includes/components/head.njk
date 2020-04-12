@@ -23,7 +23,7 @@
   <link href="https://fonts.googleapis.com/css?family=Merriweather|Ubuntu&display=swap" rel="stylesheet" />
   {% set js %} {% include "assets/js/inline.js" %} {% endset %}
   <script>
-    {{ js | jsmin | safe; }}
+    {{ js | jsmin | safe }}
   </script>
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <title>{{ title or renderData.title or metadata.title }}</title>
