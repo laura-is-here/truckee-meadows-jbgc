@@ -2,6 +2,7 @@
 ShareThisPage: true
 eleventyExcludeFromCollections: false
 title: Sharing Hot Meals Every Saturday
+image: 'https://truckeemeadowsjbgc.org/static/img/food-not-bombs.png'
 summary: Food is a right, not a privilege.
 permalink: /food-not-bombs/index.html
 eleventyNavigation:
