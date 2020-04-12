@@ -14,7 +14,7 @@ callToAction:
 ---
 Truckee Meadows John Brown Gun Club offers trainings and support to our community. Contact us by email or over social media if you’re interested in learning more about our activities or membership.
 
-<p class="text-lg pt-4"><strong>Phone</strong> (complaints only)</p>
+<p class="text-lg pt-4"><strong>Phone</strong> <span class="placeholder-gray-100 text-xs italic">(complaints only)</span></p>
 
 {%- SocialIcon "phone", "tel:+17753916271" -%}(775) 391-6271{%- endSocialIcon -%}
 
