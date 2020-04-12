@@ -12,8 +12,6 @@ eleventyNavigation:
   order: 100
   key: Community Range Days
 ---
-### ***..:: NOTICE ::..***
-
 > *Due to the Coronavirus/COVID-19 outbreak, we are postponing community range days for the foreseeable future. While we are able to organize small groups, we are unable to secure needed ammunition.*
 
 ![Community Range Day](/static/img/community-range-day.png){style="width:250;padding:25px 0 25px 0;"}
