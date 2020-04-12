@@ -22,14 +22,14 @@ Truckee Meadows John Brown Gun Club has participated in the launch of the COVID-
 
 If you seeking assistance or looking to volunteer, please visit the Washoe County Mutual Aid Solidarity Network website at [washoecountymasn.org](https://www.washoecountymasn.org/) or contact the network directly.
 
-<p class="text-lg"><strong>Phone</strong></p>
+<p class="pt-4 text-lg">Phone</p>
 
 {%- SocialIcon "phone", "tel:+17754536130" -%}(775) 453-6130{%- endSocialIcon -%}
 
-<p class="text-lg"><strong>Email</strong></p>
+<p class="pt-4 text-lg">Email</p>
 
 {%- SocialIcon "envelope", "mailto:contact@washoecountymasn.org?Subject=Reaching out!" -%}contact@washoecountymasn.org{%- endSocialIcon -%}
 
-<p class="text-lg"><strong>Social Media</strong></p>
+<p class="pt-4 text-lg">Social Media</p>
 
 {%- SocialIcon "twitter", "https://twitter.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}{%- SocialIcon "instagram", "https://www.instagram.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}{%- SocialIcon "facebook", "https://www.facebook.com/WashoeCoMASN" -%}@WashoeCoMASN{%- endSocialIcon -%}
