@@ -4,7 +4,7 @@
   <meta name="keywords" content="{{ metadata.keywords }}" />
   <meta name="description" content="{{ summary  }}" />
   <meta property="og:locale" content="{{ metadata.locale }}" />
-  <meta property="og:type" content="{{ metadata.type }}" />
+  <meta property="og:type" content="{{ type or metadata.type }}" />
   <meta property="og:title" content="{{ title or metadata.title }}" />
   <meta property="og:description" content="{{ summary }}" />
   <meta property="og:url" content="{{ metadata.baseURL }}{{ post.url or page.url }}" />
