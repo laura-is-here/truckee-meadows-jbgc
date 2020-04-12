@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: Local Resources
 permalink: /covid-19/local-resources.html
 eleventyNavigation:
