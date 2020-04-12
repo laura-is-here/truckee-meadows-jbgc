@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: false
 section: contact
 summary: Truckee Meadows John Brown Gun Club Contact Page
 layout: layouts/contact.njk

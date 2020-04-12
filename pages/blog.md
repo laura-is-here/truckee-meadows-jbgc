@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: false
 layout: layouts/blog.njk
 title: TMJBGC Articles
 summary: Truckee Meadows John Brown Gun Club Articles Landing Page
