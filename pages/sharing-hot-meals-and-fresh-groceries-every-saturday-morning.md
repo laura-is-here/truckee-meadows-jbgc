@@ -1,9 +1,9 @@
 ---
 title: Sharing Hot Meals Every Saturday
-summary: 'Food is a right, not a privilege.'
+summary: Food is a right, not a privilege.
 permalink: /food-not-bombs/index.html
 eleventyNavigation:
-  order: 2
+  order: 20
   key: Food Not Bombs
 ---
 *Because food is a right, not a privilege.*
