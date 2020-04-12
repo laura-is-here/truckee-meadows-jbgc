@@ -4,9 +4,17 @@ section: page
 ---
 
 <div class="container max-w-screen-lg mx-auto">
-  <div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md markdown">
-    <h1>{{ title }}</h1>
-
+	<div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md markdown">
+	<h1>{{ title }}</h1>
     {{ layoutContent | safe }}
-  </div>
+	</div>
+	{% if ShareThisPage %}
+    <p class="text-xs text-gray-700">Share this post</p>
+    <div class="flex flex-row mb-4 text-xs">
+      <button class="bg-gray-100 shadow p-2 rounded" id="copyPageLink" aria-label="Copy the link to this page to the clipboard" />
+        <span class="iconify inline-block" data-icon="fa:copy"></span>
+      </button>
+      <input class="form-input p-2 text-xs w-full" type="text" id="pageLink" value="{{ metadata.baseURL }}{{ page.url }}" readonly />
+    </div>
+    {% endif %}
 </div>
