@@ -1,6 +1,7 @@
 ---
 eleventyExcludeFromCollections: true
 title: COVID-19 Resources
+summary:
 permalink: /covid-19/index.html
 eleventyNavigation:
   order: 25
