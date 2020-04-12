@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: Community Range Days
 date: 2020-02-23T19:20:00.000Z
 image: 'https://tmjbgc.org/static/img/community-range-day.png'
@@ -17,7 +18,7 @@ tags:
 
 ![Community Range Day](/static/img/community-range-day.png){style="width:250;padding:25px 0 25px 0;"}
 
-Truckee Meadows John Brown Gun Club is an all volunteer community defense and emergency response group with the mission of providing security and training services to groups and individuals of marginalized populations. As far-right and white supremacist violence is on the rise, it is more important than ever to learn to use all available tools to defend ourselves and our communities. 
+Truckee Meadows John Brown Gun Club is an all volunteer community defense and emergency response group with the mission of providing security and training services to groups and individuals of marginalized populations. As far-right and white supremacist violence is on the rise, it is more important than ever to learn to use all available tools to defend ourselves and our communities.
 
 Truckee Meadows John Brown Gun Club's Community Range Day is an opportunity for members of all communities, who have little or no firearms experience, to learn the basics of safe firearm use with hands-on training and practice. Please note that this is not an opportunity for community members who already possess firearms experience, or are members of other gun clubs, to socialize with us as this is not social event.
 
