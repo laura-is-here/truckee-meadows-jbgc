@@ -1,4 +1,5 @@
 ---
+ShareThisPage: true
 eleventyExcludeFromCollections: true
 title: Community Range Days
 image: 'https://tmjbgc.org/static/img/community-range-day.png'
