@@ -2,7 +2,6 @@
 eleventyExcludeFromCollections: false
 layout: layouts/home.njk
 permalink: /
-date: 2016-01-01T00:00:00.000Z
 title: Truckee Meadows John Brown Gun Club
 summary: >-
   Truckee Meadows John Brown Gun Club (TMJBGC) is an anti-fascist, anti-racist,
