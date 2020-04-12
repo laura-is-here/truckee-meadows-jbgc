@@ -1,6 +1,7 @@
 ---
 ShareThisPage: true
 eleventyExcludeFromCollections: false
+twitterCreator: @WashoeFNB
 title: Sharing Hot Meals Every Saturday
 image: 'https://truckeemeadowsjbgc.org/static/img/food-not-bombs.png'
 summary: Food is a right, not a privilege.
