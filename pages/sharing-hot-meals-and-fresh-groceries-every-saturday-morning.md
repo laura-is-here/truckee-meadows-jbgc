@@ -1,4 +1,5 @@
 ---
+ShareThisPage: true
 eleventyExcludeFromCollections: false
 title: Sharing Hot Meals Every Saturday
 summary: Food is a right, not a privilege.
