@@ -4,7 +4,6 @@ section: contact
 summary: Truckee Meadows John Brown Gun Club Contact Page
 layout: layouts/contact.njk
 permalink: /contact/index.html
-date: 2018-01-01T00:00:00.000Z
 title: Contact Us
 eleventyNavigation:
   key: Contact
