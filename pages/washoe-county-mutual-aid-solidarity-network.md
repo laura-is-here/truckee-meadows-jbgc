@@ -1,7 +1,7 @@
 ---
 ShareThisPage: true
 eleventyExcludeFromCollections: true
-twcreator: \@WashoeCoMASN
+twcreator: '@WashoeCoMASN'
 title: Mutual Aid Solidarity Network
 image: 'https://truckeemeadowsjbgc.org/static/img/covid19-mutual-aid-network.png'
 summary: >-
