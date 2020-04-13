@@ -6,7 +6,6 @@ title: Contact Information
 titleTab: Contact Truckee Meadows John Brown Gun Club
 layout: layouts/contact.njk
 permalink: /contact/index.html
-title: Contact TMJGBC
 eleventyNavigation:
   key: Contact
   order: 30
