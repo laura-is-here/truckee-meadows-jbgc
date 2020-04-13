@@ -5,7 +5,7 @@ twcreator: '@WashoeFNB'
 title: Food Not Bombs
 titleTab: Truckee Meadows John Brown Gun Club partners with Washoe Food Not Bombs
 image: 'https://truckeemeadowsjbgc.org/static/img/food-not-bombs.png'
-summary: Sharing hot meals every saturday because food is a right, not a privilege.
+summary: 'Sharing hot meals every saturday because food is a right, not a privilege.'
 permalink: /food-not-bombs/index.html
 eleventyNavigation:
   order: 20
