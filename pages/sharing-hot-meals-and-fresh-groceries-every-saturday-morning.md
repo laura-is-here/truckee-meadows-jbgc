@@ -1,19 +1,20 @@
 ---
+summary: Sharing hot meals every Saturday morning because food is a right, not a
+  privilege.
+twcreator: "@WashoeFNB"
+permalink: /food-not-bombs/index.html
 ShareThisPage: true
 eleventyExcludeFromCollections: false
-twcreator: '@WashoeFNB'
 title: Food Not Bombs
-titleTab: Truckee Meadows John Brown Gun Club partners with Washoe Food Not Bombs
-image: 'https://truckeemeadowsjbgc.org/static/img/food-not-bombs.png'
-summary: Sharing hot meals every Saturday morning because food is a right, not a privilege.
-permalink: /food-not-bombs/index.html
 eleventyNavigation:
   order: 20
   key: Food Not Bombs
+image: https://truckeemeadowsjbgc.org/static/img/food-not-bombs.png
+titleTab: Truckee Meadows John Brown Gun Club partners with Washoe Food Not Bombs
 ---
 *Sharing hot meals every Saturday morning because food is a right, not a privilege.*
 
-![](/static/img/food-not-bombs.png){class="py-8" style="width:250px;"}
+![](/static/img/food-not-bombs.png){class="w-40 py-8"}
 
 Truckee Meadows John Brown Gun Club aims to act in solidarity to redistribute food in our city by working with the local Washoe Food Not Bombs project. Washoe Food Not Bombs is an anarchist mutual aid project in which community members engage in direct action to address disparities in access to quality food.
 
