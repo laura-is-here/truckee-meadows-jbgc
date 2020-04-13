@@ -3,7 +3,7 @@ ShareThisPage: true
 eleventyExcludeFromCollections: false
 twcreator: '@WashoeFNB'
 title: Sharing Hot Meals Every Saturday
-titleTab: Food Not Bombs
+titleTab: TMJBGC and Food Not Bombs
 image: 'https://truckeemeadowsjbgc.org/static/img/food-not-bombs.png'
 summary: Food is a right, not a privilege.
 permalink: /food-not-bombs/index.html

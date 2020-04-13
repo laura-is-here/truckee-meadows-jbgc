@@ -2,6 +2,7 @@
 ShareThisPage: true
 eleventyExcludeFromCollections: true
 title: Community Range Days
+titleTab: TMJBGC Community Range Days
 image: 'https://truckeemeadowsjbgc.org/static/img/community-range-day.png'
 summary: >-
   Community Range Day is an opportunity for members of all communities, who have
