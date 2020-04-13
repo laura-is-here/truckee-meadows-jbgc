@@ -2,10 +2,9 @@
 eleventyExcludeFromCollections: false
 section: contact
 summary: Truckee Meadows John Brown Gun Club Contact Page
-titleTab: Contact TMJGBC
 layout: layouts/contact.njk
 permalink: /contact/index.html
-title: Contact
+title: Contact TMJGBC
 eleventyNavigation:
   key: Contact
   order: 30
