@@ -1,7 +1,9 @@
 ---
 eleventyExcludeFromCollections: false
 section: contact
+title: Contact Information
 summary: Truckee Meadows John Brown Gun Club Contact Page
+titleTab: Contact Truckee Meadows John Brown Gun Club
 layout: layouts/contact.njk
 permalink: /contact/index.html
 title: Contact TMJGBC
