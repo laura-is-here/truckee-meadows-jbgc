@@ -24,7 +24,5 @@
 		{% set js %} {% include "assets/js/inline.js" %} {% endset %}
 		<script>{ { js | jsmin | safe; } }</script>
 		<script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-	    <script src="{{ metadata.baseURL }}/_includes/assets/js/script.js"></script>
-	    <script src="https://code.iconify.design/1/1.0.4/iconify.min.js"></script>
 		<title>{{ titleTab or title or metadata.title }}</title>
 	</head>
