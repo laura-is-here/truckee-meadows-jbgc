@@ -18,7 +18,7 @@ Truckee Meadows John Brown Gun Club aims to act in solidarity to redistribute fo
 
 Food Not Bombs illustrates that direct action can be a viable alternative to reliance on charities and non-profits, which reinforce the capitalist system through reproduction of the hierarchies and oppressive structures of that system.
 
-All are welcome to share food with us ([unless you're a cop](https://aworldwithoutpolice.org/){rel="noopener noreferer" target="_blank"}). We serve food every Saturday morning from 10am until 12pm, (or when supplies run out) at Bennett Park in downtown Reno, NV (across Arlington Ave from Wingfield Park).
+All are welcome to share food with us ([unless you're a cop](https://aworldwithoutpolice.org/){rel="noopener noreferer" target="_blank"}). We serve food every Saturday morning from 10am until 12pm, (or when supplies run out) near the backetball courts at Barbara Bennett Park in downtown Reno, NV .
 
 <iframe class="iframe py-4" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3077.601763547974!2d-119.81943514877157!3d39.52347691730006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809940cb793c1e3b%3A0xcf75f194d6f20c63!2sBarbara%20Bennett%20Park!5e0!3m2!1sen!2sus!4v1586791780197!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="margin:0 auto;border:0;" allowfullscreen="false" aria-hidden="false" tabindex="0">&nbps;</iframe>
 
