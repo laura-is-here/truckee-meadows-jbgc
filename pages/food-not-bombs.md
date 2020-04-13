@@ -14,7 +14,7 @@ titleTab: Truckee Meadows John Brown Gun Club partners with Washoe Food Not Bomb
 ---
 *Sharing hot meals every Saturday morning because food is a right, not a privilege.*
 
-![](/static/img/food-not-bombs.png){class="xl:w-40 py-8"}
+![](/static/img/food-not-bombs.png){class="xl:w-48 py-8"}
 
 Truckee Meadows John Brown Gun Club aims to act in solidarity to redistribute food in our city by working with the local Washoe Food Not Bombs project. Washoe Food Not Bombs is an anarchist mutual aid project in which community members engage in direct action to address disparities in access to quality food.
 
