@@ -23,5 +23,4 @@ Truckee Meadows John Brown Gun Club offers trainings and support to our communit
 
 {%- SocialIcon "twitter", "https://twitter.com/TMJBGC" -%}@TMJBGC{%- endSocialIcon -%}{%- SocialIcon "facebook", "https://www.facebook.com/TruckeeMeadowsJBGC" -%}@TruckeeMeadowsJBGC{%- endSocialIcon -%}
 
-<p class="pt-4">Optionally, you may submit email using the form below. <span class="font-bold">Please note:</span> submission is passed through a spam filter and if flagged, will display a <span style="font-style:italic;">CAPTCHA</span> challenge to the user.
-</p>
+<p class="pt-4">Optionally, you may submit email using the form below.</p>
