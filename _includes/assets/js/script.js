@@ -60,7 +60,7 @@ const originalPostLink = postLink.value;
 copyPostLink.addEventListener("click", () => {
   postLink.select();
   document.execCommand("copy");
-  postLink.value = "Copied!";
+  postLink.value = "Link has been copied to your clipboard!";
   setTimeout(function() {
     postLink.value = originalPostLink;
   }, 2500);
