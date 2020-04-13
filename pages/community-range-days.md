@@ -1,7 +1,6 @@
 ---
 ShareThisPage: true
 eleventyExcludeFromCollections: true
-title: Community Range Days
 titleTab: TMJBGC Community Range Days
 image: 'https://truckeemeadowsjbgc.org/static/img/community-range-day.png'
 summary: >-
