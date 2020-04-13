@@ -1,7 +1,7 @@
 ---
 ShareThisPage: true
 eleventyExcludeFromCollections: true
-titleTab: TMJBGC Community Range Days
+titleTab: Truckee Meadows John Brown Gun Club Community Range Days
 image: 'https://truckeemeadowsjbgc.org/static/img/community-range-day.png'
 summary: >-
   Community Range Day is an opportunity for members of all communities, who have
