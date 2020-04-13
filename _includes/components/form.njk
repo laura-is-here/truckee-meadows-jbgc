@@ -4,6 +4,7 @@
   method="POST"
   netlify-honeypot="bot-field"
   data-netlify="true"
+  data-netlify-recaptcha="true"
 >
   <label for="name" class="font-semibold">Name</label>
   <input
@@ -36,6 +37,7 @@
     class="form-textarea bg-gray-100 border-4 border-gray-900 rounded-none mb-2 hover:border-red-400"
     required
   ></textarea>
+  <div data-netlify-recaptcha="true">&nbsp;</div>
   <button
     type="submit"
     name="submit"
