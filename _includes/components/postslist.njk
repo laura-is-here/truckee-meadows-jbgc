@@ -21,12 +21,7 @@
     <p class="mb-2">
       {% for tag in post.data.tags %} {%- if tag != "post" -%} {% set tagUrl
       %}/tags/{{ tag }}/{% endset %}
-      <a
-        href="{{ tagUrl | url }}"
-        rel="tag"
-        class="text-gray-700 hover:text-gray-900"
-        ><small>{{ tag }}</small></a
-      >
+      <a href="{{ tagUrl | url }}" rel="tag" class="text-gray-700 hover:text-gray-900"><small>{{ tag }}</small></a>
       {%- endif -%} {% endfor %}
     </p>
     {% endif %}
