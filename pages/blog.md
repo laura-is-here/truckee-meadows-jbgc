@@ -1,7 +1,7 @@
 ---
 eleventyExcludeFromCollections: false
 layout: layouts/articles.njk
-title: TMJBGC Articles
+titleTab: TMJBGC Articles
 summary: Truckee Meadows John Brown Gun Club Articles Index
 permalink: /articles/index.html
 eleventyNavigation:
