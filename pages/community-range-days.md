@@ -12,7 +12,7 @@ eleventyNavigation:
   order: 100
   key: Community Range Days
 ---
-> *Due to the Coronavirus/COVID-19 outbreak, we are postponing community range days for the foreseeable future. While we are able to organize small groups, we are unable to secure needed ammunition.*
+> *Due to the Coronavirus/COVID-19 outbreak, we are postponing community range days for the foreseeable future. While we are able to organize small groups, we are unable to secure needed ammunition.*{class="py-4"}
 
 ![Community Range Day](/static/img/community-range-day.png){class="py-8" style="width:600px;"}
 
