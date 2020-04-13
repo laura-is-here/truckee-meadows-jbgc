@@ -13,12 +13,10 @@ layout: layouts/base.njk
 renderData:
   title: "Tagged “{{ tag }}”"
 ---
-
 <div class="container max-w-screen-lg mx-auto">
   <div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md ">
     <h1 class="text-4xl mb-4 leading-tight">Tagged “{{ tag }}”</h1>
     {{ layoutContent | safe }}
-
     {% set postslist = collections[ tag ] %} {% include
     "components/postslist.njk" %}
     <nav>
