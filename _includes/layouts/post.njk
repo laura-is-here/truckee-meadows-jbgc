@@ -15,10 +15,10 @@ section: post
     </div>
     <p class="text-xs text-gray-700">Share this article</p>
     <div class="flex flex-row mb-4 text-xs">
-      <button class="bg-gray-100 p-2 rounded" id="copyPostLink" aria-label="Copy the link to this article to the clipboard" />
+      <button class="bg-gray-100 shadow p-2 rounded" id="copyPostLink" aria-label="Copy the link to this article to the clipboard" />
         <span class="iconify inline-block" data-icon="fa:copy"></span>
       </button>
-      <input class="form-input p-2 text-xs w-full" type="text" id="postLink" value="{{ metadata.baseURL }}{{ page.url }}" readonly />
+      <input class="p-2 text-xs w-full" type="text" id="postLink" value="{{ metadata.baseURL }}{{ page.url }}" readonly />
     </div>
     <hr class="border-b-2 border-gray-900 w-48 mb-4" />
     {% if tags %}
