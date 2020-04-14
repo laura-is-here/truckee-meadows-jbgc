@@ -1,11 +1,6 @@
 /* purgecss start ignore */
 @tailwind base;
 
-.form-input {
-  border-width: 0;
-  border-radius: 0;
-}
-
 .jb-hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
     url("/static/img/john-brown.png");
