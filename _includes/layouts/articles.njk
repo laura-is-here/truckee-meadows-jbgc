@@ -5,7 +5,7 @@ permalink: /articles/index.html
 ---
 <div class="container max-w-screen-lg mx-auto">
   <div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md ">
-  {%- if !eleventyExcludeTitle || eleventyExcludeTitle != "true" -%}
+  {%- if !eleventyExcludeTitle -%}
     <h1 class="text-4xl mb-4">{{ title }}</h1>
   {% endif %}
     {{ layoutContent | safe }}
