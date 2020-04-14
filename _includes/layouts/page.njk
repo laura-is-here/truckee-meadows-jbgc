@@ -4,7 +4,9 @@ section: page
 ---
 <div class="container max-w-screen-lg mx-auto">
 	<div class="bg-gray-200 -mt-8 p-8 container max-w-screen-md markdown">
+	{% if not eleventyExcludeTitle or eleventyExcludeTitle !== true %}
 	<h1>{{ title }}</h1>
+	{% endif %}
     {{ layoutContent | safe }}
 	</div>
 	{% if ShareThisPage %}
