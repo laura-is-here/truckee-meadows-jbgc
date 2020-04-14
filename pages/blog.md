@@ -1,5 +1,4 @@
 ---
-eleventyExcludeTitle: false
 eleventyExcludeFromCollections: false
 layout: layouts/articles.njk
 titleTab: Truckee Meadows John Brown Gun Club Articles
