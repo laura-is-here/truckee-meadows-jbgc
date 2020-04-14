@@ -745,8 +745,9 @@ video {
      -moz-appearance: none;
           appearance: none;
   background-color: #fff;
-  border-width: 0;
-  border-radius: 0;
+  border-color: #e2e8f0;
+  border-width: 1px;
+  border-radius: 0.25rem;
   padding-top: 0.5rem;
   padding-right: 0.75rem;
   padding-bottom: 0.5rem;
