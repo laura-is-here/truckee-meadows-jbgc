@@ -746,7 +746,7 @@ video {
           appearance: none;
   background-color: #fff;
   border-color: #e2e8f0;
-  border-width: 1px;
+  border-width: 0px;
   border-radius: 0.25rem;
   padding-top: 0.5rem;
   padding-right: 0.75rem;
