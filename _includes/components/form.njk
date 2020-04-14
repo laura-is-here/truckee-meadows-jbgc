@@ -1,5 +1,4 @@
 <form class="flex flex-col justify-around font-sans" name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
-  <label for="name" class="font-semibold">Name</label>
   <input
     type="text"
     name="name"
@@ -7,17 +6,16 @@
     autocomplete="name"
     placeholder="Your name"
     title="Please enter your name"
-    class="form-input border-0 bg-gray-100 border-b-2 border-gray-900 rounded-none mb-2 hover:border-red-400"
+    class="form-input border-0 bg-gray-100 border-b-2 border-gray-900 rounded-none mb-2 hover:border-red-400 sm:my-4"
     required
   />
-  <label for="email" class="font-semibold">Email</label>
   <input
     type="email"
     name="email"
     id="email"
     autocomplete="email"
     placeholder="Your email address"
-    class="form-input border-0 bg-gray-100 border-b-2 border-gray-900 rounded-none mb-2 hover:border-red-400"
+    class="form-input border-0 bg-gray-100 border-b-2 border-gray-900 rounded-none mb-2 hover:border-red-400 sm:my-4"
     title="The domain portion of the email address is invalid (the portion after the @)."
     pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$"
     required
@@ -26,7 +24,7 @@
     name="message"
     id="message"
     placeholder="Write your message here"
-    class="form-textarea border-0 bg-gray-100 border-b-2 border-gray-900 rounded-none mb-2 hover:border-red-400 font-semibold sm:my-4"
+    class="form-textarea border-0 bg-gray-100 border-b-2 border-gray-900 rounded-none mb-2 hover:border-red-400 sm:my-4"
     required
   ></textarea>
   <div class="mx-auto py-4" data-netlify-recaptcha="true"></div>
